@@ -1,0 +1,15 @@
+Samsung C260                   88.00 X 45.00
+Samsung C275                   88.00 X 45.00
+Samsung E750                   88.00 X 45.00
+Samsung T219                   88.00 X 45.00
+Samsung X500                   88.00 X 45.00
+LG F2410                       88.00 X 45.00
+LG G7020                       88.00 X 45.00
+LG W7000                       88.00 X 45.00
+LG W7020                       88.00 X 45.00
+Alcatel OT-C630                88.00 X 45.00
+Alcatel OT-C635                88.00 X 45.00
+NEC N223I                      88.00 X 45.00
+
+Alcatel Lollipops              88.00 X 45.50
+Samsung C270                   88.10 X 45.60

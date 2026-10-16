@@ -1,0 +1,23 @@
+LG G3000                       102.00 X 45.00
+LG GB106                       102.00 X 45.00
+LG GB109                       102.00 X 45.00
+LG W3000                       102.00 X 45.00
+Alcatel OT-I650 PRO            102.00 X 45.00
+Alcatel OT-I650 Sport          102.00 X 45.00
+BLU GOL                        102.00 X 45.00
+BLU Kick                       102.00 X 45.00
+NEC N100                       102.00 X 45.00
+NEC N109                       102.00 X 45.00
+Benq Siemens E52               102.00 X 45.00
+Huawei T208                    102.00 X 45.00
+O2 X1I                         102.00 X 45.00
+Plum Spare                     102.00 X 45.00
+
+Sony Ericsson K610             102.00 X 45.20
+Sony Ericsson K618             102.00 X 45.20
+
+Sony Ericsson V630             102.00 X 45.70
+Samsung L170                   102.30 X 45.80
+Samsung C130                   102.40 X 45.40
+Nokia 8250                     102.50 X 45.00
+INQ Mini 3G                    102.90 X 45.80

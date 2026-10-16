@@ -1,0 +1,11 @@
+Siemens A62                    101.00 X 45.00
+Siemens A65                    101.00 X 45.00
+Siemens A70                    101.00 X 45.00
+Asus V88I                      101.00 X 45.00
+Motorola C123                  101.00 X 45.00
+
+Motorola C113A                 101.30 X 45.70
+Motorola C118                  101.30 X 45.70
+
+Motorola C113                  101.00 X 45.70
+Samsung F110                   101.50 X 45.00

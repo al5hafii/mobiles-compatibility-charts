@@ -1,0 +1,96 @@
+Samsung Galaxy Note10 Plus     162.30 X 77.20
+Samsung Galaxy Note10 Plus 5G  162.30 X 77.20
+Xiaomi Redmi 10X 4G            162.30 X 77.20
+Xiaomi Redmi Note 9            162.30 X 77.20
+Infinix Note 60 Ultra          162.30 X 77.20
+
+Oneplus ACE 6 Ultra            162.50 X 77.50
+Oneplus Nord 6                 162.50 X 77.50
+Oneplus Nord CE6               162.50 X 77.50
+Oneplus Turbo 6                162.50 X 77.50
+Oneplus Turbo 6V               162.50 X 77.50
+
+Vivo NEX A                     162.00 X 77.00
+Vivo NEX S                     162.00 X 77.00
+BLU G90 PRO                    162.00 X 77.00
+HTC Desire 20 PRO              162.00 X 77.00
+
+Samsung Galaxy F56             162.00 X 77.30
+Samsung Galaxy M56             162.00 X 77.30
+Samsung Galaxy S24 FE          162.00 X 77.30
+Xiaomi Redmi Note 9 5G         162.00 X 77.30
+
+Xiaomi Poco M3                 162.30 X 77.30
+Xiaomi Redmi 9 Power           162.30 X 77.30
+Xiaomi Redmi 9T                162.30 X 77.30
+Xiaomi Redmi Note 9 4G         162.30 X 77.30
+
+Tecno Camon 50 PRO             162.40 X 77.00
+Tecno Camon 50 PRO 4G          162.40 X 77.00
+Tecno Camon 50 Ultra           162.40 X 77.00
+Samsung Galaxy A8 Star A9 Star 162.40 X 77.00
+
+Infinix GT 50 PRO              162.40 X 77.20
+Infinix Note 60                162.40 X 77.20
+Infinix Note 60 PRO            162.40 X 77.20
+Tecno Camon 50 4G              162.40 X 77.20
+
+Doogee S41 MAX                 162.50 X 77.80
+Doogee S41 Plus                162.50 X 77.80
+Doogee S41 PRO                 162.50 X 77.80
+Doogee S41T                    162.50 X 77.80
+
+Xiaomi 17 MAX                  162.90 X 77.60
+Xiaomi 17 PRO MAX              162.90 X 77.60
+Xiaomi 17 Ultra                162.90 X 77.60
+Xiaomi 17 Ultra China          162.90 X 77.60
+
+Vivo Z1PRO                     162.40 X 77.30
+Vivo Z5X                       162.40 X 77.30
+Vivo Z5X 2020                  162.40 X 77.30
+
+Realme 16 PRO                  162.60 X 77.60
+Realme P4S                     162.60 X 77.60
+Oneplus Turbo 6X PRO           162.60 X 77.60
+
+Xiaomi Poco X8 PRO MAX         162.90 X 77.90
+Xiaomi Redmi K90 MAX           162.90 X 77.90
+Xiaomi Redmi K90 Ultra         162.90 X 77.90
+
+Oppo Reno 10X Zoom             162.00 X 77.20
+Oppo Reno 5G                   162.00 X 77.20
+
+Honor X80 PRO MAX              162.20 X 77.00
+Honor X9E PRO                  162.20 X 77.00
+
+Samsung Galaxy A56             162.20 X 77.50
+Xiaomi 17T PRO                 162.20 X 77.50
+
+Huawei Y8S                     162.40 X 77.10
+Huawei Y9 2019                 162.40 X 77.10
+
+BLU G51S                       162.40 X 77.50
+Oppo K15 PRO Plus              162.40 X 77.50
+
+Doogee Fire 3 PRO              162.50 X 77.40
+Doogee Fire 3 Ultra            162.50 X 77.40
+
+Honor Magic7 PRO               162.70 X 77.10
+Honor Magic7 RSR Porsche Design 162.70 X 77.10
+
+Oppo K13 Turbo                 162.80 X 77.20
+Oppo K13 Turbo PRO             162.80 X 77.20
+
+Tecno Camon AIR                162.80 X 77.70
+Tecno Camon Slim 4G            162.80 X 77.70
+
+Realme NEO8                    162.00 X 77.10
+Samsung Galaxy A24 4G          162.10 X 77.60
+Samsung Galaxy A9 2018         162.50 X 77.00
+Tecno Pova 8 PRO               162.50 X 77.30
+Samsung Galaxy S10 5G          162.60 X 77.10
+Tecno Camon Slim               162.60 X 77.30
+Tecno Pova Curve 2             162.70 X 77.20
+Xiaomi 15T PRO                 162.70 X 77.90
+Samsung Galaxy S25 Ultra       162.80 X 77.60
+Blackview A80 Plus             162.80 X 77.80

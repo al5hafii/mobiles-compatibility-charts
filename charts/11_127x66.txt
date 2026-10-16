@@ -1,0 +1,13 @@
+LG L65 D280                    127.20 X 66.80
+LG L65 Dual D285               127.20 X 66.80
+LG L70 D320N                   127.20 X 66.80
+LG L70 Dual D325               127.20 X 66.80
+Allview P4 Alldro              127.20 X 66.80
+Micromax A90S                  127.20 X 66.80
+
+HTC EVO 3D Cdma                127.00 X 66.00
+Verykool S4009 Crystal         127.00 X 66.00
+
+LG F70 D315                    127.20 X 66.40
+Alcatel OT-978                 127.40 X 66.10
+Motorola Droid Bionic XT875    127.50 X 66.90

@@ -1,0 +1,80 @@
+ZTE Blade A75                  163.60 X 74.90
+ZTE Blade A76                  163.60 X 74.90
+ZTE Nubia Focus                163.60 X 74.90
+ZTE Nubia Focus 2              163.60 X 74.90
+ZTE Nubia Music                163.60 X 74.90
+ZTE Nubia Music 2              163.60 X 74.90
+
+Motorola Moto E14              163.50 X 74.50
+Motorola Moto G04              163.50 X 74.50
+Motorola Moto G04S             163.50 X 74.50
+Motorola Moto G24              163.50 X 74.50
+Motorola Moto G24 Power        163.50 X 74.50
+
+Xiaomi Poco X4 GT              163.60 X 74.30
+Xiaomi Redmi K50I              163.60 X 74.30
+Xiaomi Redmi Note 11T PRO      163.60 X 74.30
+Xiaomi Redmi Note 11T PRO Plus 163.60 X 74.30
+Xiaomi Redmi Note 12T PRO      163.60 X 74.30
+
+Honor Magic4 PRO               163.60 X 74.70
+Honor Magic4 Ultimate          163.60 X 74.70
+Motorola Moto E22              163.60 X 74.70
+Motorola Moto E22I             163.60 X 74.70
+
+Huawei Nova 12I                163.30 X 74.70
+Huawei Nova 13I                163.30 X 74.70
+Huawei Nova Y90                163.30 X 74.70
+
+Honor Play6T PRO               163.40 X 74.70
+Honor X30I                     163.40 X 74.70
+Honor X8                       163.40 X 74.70
+
+Xiaomi 12 PRO                  163.60 X 74.60
+Xiaomi 12 PRO Dimensity        163.60 X 74.60
+Xiaomi 12S PRO                 163.60 X 74.60
+
+Oppo Reno10 PRO China          163.00 X 74.00
+ZTE Blade V40 Design           163.00 X 74.00
+
+Honor V40 5G                   163.10 X 74.30
+Honor View40                   163.10 X 74.30
+
+Oneplus Nord N200 5G           163.10 X 74.90
+ZTE Blade MAX View             163.10 X 74.90
+
+Huawei Nova 8 PRO 4G           163.30 X 74.10
+Huawei Nova 8 PRO 5G           163.30 X 74.10
+
+Infinix Note 50 4G             163.30 X 74.40
+Infinix Note 50 PRO 4G         163.30 X 74.40
+
+Oneplus 11R                    163.40 X 74.30
+Oneplus ACE 2                  163.40 X 74.30
+
+Oppo Find X3                   163.60 X 74.00
+Oppo Find X3 PRO               163.60 X 74.00
+
+Honor 70 PRO                   163.90 X 74.60
+Honor 70 PRO Plus              163.90 X 74.60
+
+Oppo Reno11 PRO China          163.00 X 74.20
+Oneplus Nord N10 5G            163.00 X 74.70
+Coolpad Cool 20S               163.00 X 74.80
+Oneplus 11                     163.10 X 74.10
+Oneplus ACE 2 PRO              163.10 X 74.20
+Motorola Moto G Power 5G       163.10 X 74.80
+Xiaomi 13 Ultra                163.20 X 74.60
+Realme GT2 PRO                 163.20 X 74.70
+Honor 80 PRO                   163.30 X 74.90
+Huawei Nova 9 PRO              163.40 X 74.40
+Infinix Note 50 PRO Plus       163.40 X 74.50
+Huawei Nova 13 PRO             163.40 X 74.90
+Honor 50 PRO                   163.50 X 74.70
+Honor Magic4                   163.60 X 74.50
+Realme 10 PRO                  163.70 X 74.20
+Honor 100 PRO                  163.70 X 74.70
+Xiaomi MI 10 Lite 5G           163.70 X 74.80
+Ulefone Note 17 PRO            163.80 X 74.20
+Honor 90 PRO                   163.80 X 74.90
+Honor 60 PRO                   163.90 X 74.80

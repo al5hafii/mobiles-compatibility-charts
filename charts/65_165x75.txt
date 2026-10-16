@@ -1,0 +1,81 @@
+Motorola Moto E7 Plus          165.20 X 75.70
+Motorola Moto G10              165.20 X 75.70
+Motorola Moto G10 Power        165.20 X 75.70
+Motorola Moto G20              165.20 X 75.70
+Motorola Moto G30              165.20 X 75.70
+Motorola Moto G9 India         165.20 X 75.70
+Motorola Moto G9 Play          165.20 X 75.70
+Lenovo K12 China               165.20 X 75.70
+Lenovo K13 Note                165.20 X 75.70
+Doogee N40 PRO                 165.20 X 75.70
+
+TCL 30 SE                      165.20 X 75.50
+TCL 305                        165.20 X 75.50
+TCL 306                        165.20 X 75.50
+TCL 30E                        165.20 X 75.50
+Sharp Aquos V6                 165.20 X 75.50
+Sharp Aquos V6 Plus            165.20 X 75.50
+Alcatel 1V 2021                165.20 X 75.50
+Meizu Note 22 4G               165.20 X 75.50
+
+Cubot Hafury V1                165.80 X 75.80
+Cubot Note 40                  165.80 X 75.80
+Cubot Note 50                  165.80 X 75.80
+Cubot P80                      165.80 X 75.80
+Wiko T60                       165.80 X 75.80
+
+Alcatel 1S 2021                165.60 X 75.60
+Alcatel 3L 2021                165.60 X 75.60
+TCL 20E                        165.60 X 75.60
+TCL 20Y                        165.60 X 75.60
+
+HMD Vibe                       165.00 X 75.80
+Lava Yuva 2 5G                 165.00 X 75.80
+Nokia G42                      165.00 X 75.80
+
+Lenovo K14 Plus                165.10 X 75.70
+Motorola Moto E40              165.10 X 75.70
+Nokia G310                     165.10 X 75.70
+
+Motorola Moto E7 Power         165.10 X 75.90
+Motorola Moto E7I Power        165.10 X 75.90
+Lenovo K13                     165.10 X 75.90
+
+Realme C71                     165.80 X 75.90
+Realme P3 Lite 4G              165.80 X 75.90
+Cubot Note 21                  165.80 X 75.90
+
+Alcatel 3X 2020                165.00 X 75.00
+Gionee MAX PRO                 165.00 X 75.00
+
+Vivo Iqoo 8 PRO                165.00 X 75.20
+Vivo X80                       165.00 X 75.20
+
+Motorola Moto E30              165.10 X 75.60
+Samsung Galaxy S21 Ultra 5G    165.10 X 75.60
+
+ZTE Blade A71                  165.20 X 75.20
+ZTE Blade A7P                  165.20 X 75.20
+
+Motorola Moto G Power 2021     165.30 X 75.90
+Tecno Spark 4                  165.30 X 75.90
+
+Nokia C20 Plus                 165.40 X 75.90
+Tecno Camon 30 5G              165.40 X 75.90
+
+Cubot A1                       165.60 X 75.50
+Cubot A10                      165.60 X 75.50
+
+Realme C55                     165.60 X 75.90
+Realme Narzo N55               165.60 X 75.90
+
+Xiaomi Redmi Note 15 China     165.00 X 75.40
+Cubot Note 30                  165.00 X 75.70
+Motorola ONE Fusion            165.00 X 75.90
+Cubot X70                      165.10 X 75.30
+Tecno Camon 30                 165.30 X 75.30
+T Mobile Revvl 4 Plus          165.40 X 75.20
+Motorola Moto G 2022           165.40 X 75.80
+Infinix Note 40 5G             165.50 X 75.90
+Wiko View4                     165.70 X 75.80
+ZTE Blade 20 5G                165.90 X 75.80

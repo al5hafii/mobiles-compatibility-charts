@@ -1,0 +1,5 @@
+HP Ipaq HW6510                 118.00 X 71.00
+HP Ipaq HW6515                 118.00 X 71.00
+HP Ipaq HW6910                 118.00 X 71.00
+HP Ipaq HW6915                 118.00 X 71.00
+

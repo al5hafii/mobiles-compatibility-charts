@@ -1,0 +1,8 @@
+Motorola M3188                 140.00 X 50.00
+Motorola M3288                 140.00 X 50.00
+Motorola M3588                 140.00 X 50.00
+Motorola M3688                 140.00 X 50.00
+Motorola M3788                 140.00 X 50.00
+Sagem RC 730                   140.00 X 50.00
+Sagem RC 750                   140.00 X 50.00
+

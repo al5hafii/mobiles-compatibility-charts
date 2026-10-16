@@ -1,0 +1,9 @@
+Sony Ericsson V800             102.00 X 49.00
+Sony Ericsson Z800             102.00 X 49.00
+Nokia 6260                     102.00 X 49.00
+Philips 399                    102.00 X 49.00
+
+Sony Ericsson Hazel            102.00 X 49.50
+Philips D613                   102.00 X 49.60
+Samsung P250                   102.50 X 49.50
+LG KS500                       102.80 X 49.20

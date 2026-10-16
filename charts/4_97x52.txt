@@ -1,0 +1,5 @@
+Mitac MIO 8380                 97.00 X 52.00
+Philips Xenium 9 9R            97.00 X 52.00
+Samsung D800                   97.00 X 52.00
+Telit G90                      97.00 X 52.00
+

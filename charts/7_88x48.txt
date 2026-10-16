@@ -1,0 +1,8 @@
+Motorola V600                  88.00 X 48.00
+Motorola V620                  88.00 X 48.00
+Samsung V100                   88.00 X 48.00
+Samsung Z140                   88.00 X 48.00
+Sony Ericsson W710             88.00 X 48.00
+Sony Ericsson Z710             88.00 X 48.00
+Micromax X111                  88.00 X 48.00
+

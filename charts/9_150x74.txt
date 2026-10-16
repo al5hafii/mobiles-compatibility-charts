@@ -1,0 +1,11 @@
+Spice N-300                    150.40 X 74.80
+Spice Smart FLO 503 MI-503     150.40 X 74.80
+Spice Smart FLO 508 MI-508     150.40 X 74.80
+
+BLU R2                         150.30 X 74.30
+BLU R2 LTE                     150.30 X 74.30
+
+Gionee F5                      150.00 X 74.50
+Motorola Moto G5 Plus          150.20 X 74.00
+Gionee A1 Lite                 150.50 X 74.40
+Xiaomi MI MIX 2S               150.90 X 74.90

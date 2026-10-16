@@ -1,0 +1,37 @@
+BLU Vivo 8                     154.50 X 76.50
+Blackview P6000                154.50 X 76.50
+Coolpad Modena 2               154.50 X 76.50
+Gionee A1                      154.50 X 76.50
+Qmobile Noir A1                154.50 X 76.50
+
+Coolpad Torino                 154.00 X 76.50
+Lenovo Vibe X3                 154.00 X 76.50
+ZTE Blade V7 MAX               154.00 X 76.50
+
+Gionee P7 MAX                  154.00 X 76.80
+Karbonn Titanium Hexa          154.00 X 76.80
+Qmobile Noir J7                154.00 X 76.80
+
+Asus Zenfone 4 MAX Plus ZC554KL 154.00 X 76.90
+Asus Zenfone 4 MAX PRO ZC554KL 154.00 X 76.90
+Asus Zenfone 4 MAX ZC554KL     154.00 X 76.90
+
+Oppo A59 2016                  154.50 X 76.00
+Oppo F1S                       154.50 X 76.00
+Gionee S10B                    154.50 X 76.00
+
+BLU Vivo XL2                   154.00 X 76.60
+Qmobile J7 PRO                 154.00 X 76.60
+
+ZTE Grand X 3                  154.20 X 76.00
+ZTE Warp 7                     154.20 X 76.00
+
+Allview X4 Soul                154.20 X 76.40
+Gionee S9                      154.20 X 76.40
+
+Allview V2 Viper XE            154.40 X 76.60
+Gionee P8 MAX                  154.40 X 76.60
+
+ZTE Hawkeye                    154.00 X 76.00
+Micromax Evok Dual Note E4815  154.00 X 76.40
+ZTE Nubia Z9 MAX               154.80 X 76.60

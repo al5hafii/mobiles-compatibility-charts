@@ -1,0 +1,21 @@
+Sony Ericsson K310             101.00 X 44.00
+Sony Ericsson K320             101.00 X 44.00
+Sony Ericsson K510             101.00 X 44.00
+Sony Ericsson T230             101.00 X 44.00
+Sony Ericsson T290             101.00 X 44.00
+Sony Ericsson W200             101.00 X 44.00
+Siemens A55                    101.00 X 44.00
+Siemens A75                    101.00 X 44.00
+Siemens C55                    101.00 X 44.00
+Siemens C62                    101.00 X 44.00
+Philips 768                    101.00 X 44.00
+Philips S200                   101.00 X 44.00
+Philips Xenium 9 9F            101.00 X 44.00
+Asus V80                       101.00 X 44.00
+Benq Siemens E61               101.00 X 44.00
+LG G1700                       101.00 X 44.00
+Telit T130                     101.00 X 44.00
+
+Lenovo E156                    101.00 X 44.30
+Philips 290                    101.00 X 44.50
+Nokia 8210                     101.50 X 44.50

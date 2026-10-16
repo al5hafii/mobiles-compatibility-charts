@@ -1,0 +1,12 @@
+Alcatel OT-E159                83.00 X 43.00
+Alcatel OT-E160                83.00 X 43.00
+Alcatel OT-E256                83.00 X 43.00
+Alcatel OT-E257                83.00 X 43.00
+Alcatel OT-E259                83.00 X 43.00
+Philips 330                    83.00 X 43.00
+Philips 630                    83.00 X 43.00
+Asus M303                      83.00 X 43.00
+Bird V09                       83.00 X 43.00
+Samsung S500                   83.00 X 43.00
+
+Philips 598                    83.00 X 43.10

@@ -1,0 +1,41 @@
+Samsung Galaxy S5              142.00 X 72.50
+Samsung Galaxy S5 Duos         142.00 X 72.50
+Samsung Galaxy S5 LTE-A G901F  142.00 X 72.50
+Samsung Galaxy S5 LTE-A G906S  142.00 X 72.50
+Samsung Galaxy S5 NEO          142.00 X 72.50
+Samsung Galaxy S5 Octa-Core    142.00 X 72.50
+Samsung Galaxy S5 Plus         142.00 X 72.50
+Lenovo A859                    142.00 X 72.50
+
+Motorola Moto G 3RD GEN        142.10 X 72.40
+Motorola Moto G Dual SIM 3RD GEN 142.10 X 72.40
+Motorola Moto G Turbo          142.10 X 72.40
+
+Allview X4 Soul Mini S         142.00 X 72.00
+Jolla Jolla C                  142.00 X 72.00
+
+Honor 3C Play                  142.20 X 72.30
+Honor Holly                    142.20 X 72.30
+
+Samsung Galaxy ON5             142.30 X 72.10
+Samsung Galaxy ON5 PRO         142.30 X 72.10
+
+Lava Iris Fuel F2              142.50 X 72.50
+ZTE Blade L3                   142.50 X 72.50
+
+Micromax Canvas XP 4G Q413     142.70 X 72.80
+Micromax Canvas Xpress 4G Q413 142.70 X 72.80
+
+Icemobile Prime 5.0            142.00 X 72.30
+Samsung Galaxy S5 USA          142.00 X 72.40
+Huawei Y625                    142.00 X 72.60
+Micromax A100                  142.20 X 72.60
+BLU Life Mark                  142.40 X 72.00
+ZTE Blade L2                   142.50 X 72.20
+Huawei Ascend G700             142.50 X 72.80
+Haier G51                      142.60 X 72.90
+LG G4 Beat                     142.70 X 72.60
+BLU Studio Selfie LTE          142.70 X 72.90
+Huawei Ascend G620S            142.90 X 72.00
+Unnecto Omnia                  142.90 X 72.60
+Lava Iris 504Q                 142.90 X 72.90

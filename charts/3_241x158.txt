@@ -1,0 +1,4 @@
+TCL Nxtpaper 10S               241.00 X 158.60
+TCL TAB 10S                    241.00 X 158.60
+
+TCL TAB 10S 5G                 241.70 X 158.60

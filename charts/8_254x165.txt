@@ -1,0 +1,10 @@
+Samsung Galaxy TAB S10 FE      254.30 X 165.80
+Samsung Galaxy TAB S10 Lite    254.30 X 165.80
+Samsung Galaxy TAB S9          254.30 X 165.80
+Samsung Galaxy TAB S9 FE       254.30 X 165.80
+
+Xiaomi PAD 6                   254.00 X 165.20
+Xiaomi PAD 6 PRO               254.00 X 165.20
+
+Infinix Xpad 30 PRO            254.00 X 165.60
+Tecno Megapad SE               254.70 X 165.70

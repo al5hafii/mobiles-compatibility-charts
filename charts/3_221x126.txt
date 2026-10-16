@@ -1,0 +1,4 @@
+Nvidia Shield                  221.00 X 126.00
+Nvidia Shield K1               221.00 X 126.00
+Nvidia Shield LTE              221.00 X 126.00
+

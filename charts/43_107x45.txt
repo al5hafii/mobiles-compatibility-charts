@@ -1,0 +1,50 @@
+Nokia 1800                     107.00 X 45.00
+Nokia 3500 Classic             107.00 X 45.00
+Nokia 5500 Sport               107.00 X 45.00
+Nokia 6220                     107.00 X 45.00
+Nokia 8600 Luna                107.00 X 45.00
+Nokia 8800                     107.00 X 45.00
+Nokia 8800 Sirocco             107.00 X 45.00
+Verykool I122                  107.00 X 45.00
+Verykool I123                  107.00 X 45.00
+Verykool I125                  107.00 X 45.00
+Verykool I130                  107.00 X 45.00
+Motorola C117                  107.00 X 45.00
+Motorola E365                  107.00 X 45.00
+Motorola WX294                 107.00 X 45.00
+Bird D660                      107.00 X 45.00
+Celkon C207                    107.00 X 45.00
+Huawei G5500                   107.00 X 45.00
+I Mobile 318                   107.00 X 45.00
+LG B2250                       107.00 X 45.00
+Philips Xenium 9 98            107.00 X 45.00
+Samsung E2130                  107.00 X 45.00
+Spice S-5110                   107.00 X 45.00
+ZTE S213                       107.00 X 45.00
+
+Verykool I115                  107.00 X 45.50
+Verykool I117                  107.00 X 45.50
+Huawei C3200                   107.00 X 45.50
+Samsung E1130B                 107.00 X 45.50
+ZTE R220                       107.00 X 45.50
+
+Samsung E1080T                 107.40 X 45.50
+Samsung E1085T                 107.40 X 45.50
+Samsung Guru E1081T            107.40 X 45.50
+
+Nokia 1616                     107.10 X 45.00
+Nokia C1-00                    107.10 X 45.00
+
+Nokia 103                      107.20 X 45.10
+Nokia 1280                     107.20 X 45.10
+
+Nokia 2690                     107.50 X 45.50
+Plum Snap                      107.50 X 45.50
+
+Motorola WX260                 107.60 X 45.30
+Motorola WX290                 107.60 X 45.30
+
+Icemobile Tornado II           107.00 X 45.40
+BLU Diesel 3G                  107.50 X 45.00
+Samsung E1050                  107.50 X 45.40
+Samsung M200                   107.60 X 45.60

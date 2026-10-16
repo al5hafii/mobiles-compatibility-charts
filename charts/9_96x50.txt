@@ -1,0 +1,10 @@
+LG P7200                       96.00 X 50.00
+LG U8100                       96.00 X 50.00
+LG U8110                       96.00 X 50.00
+LG U8120                       96.00 X 50.00
+Alcatel OT-C825                96.00 X 50.00
+Ericsson T39                   96.00 X 50.00
+Motorola E1070                 96.00 X 50.00
+
+Samsung M370                   96.50 X 50.00
+Palm Phone PVG100              96.60 X 50.60

@@ -1,0 +1,5 @@
+Alcatel OT-E100                96.00 X 42.50
+Alcatel OT-E105                96.00 X 42.50
+Alcatel OT-E205                96.00 X 42.50
+
+Alcatel OT-E157                96.00 X 42.00

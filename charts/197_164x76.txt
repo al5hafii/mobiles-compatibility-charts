@@ -1,0 +1,234 @@
+Vivo Iqoo U1X                  164.40 X 76.30
+Vivo Iqoo U3X Standard         164.40 X 76.30
+Vivo Y11S                      164.40 X 76.30
+Vivo Y12A                      164.40 X 76.30
+Vivo Y12S                      164.40 X 76.30
+Vivo Y12S 2021                 164.40 X 76.30
+Vivo Y20                       164.40 X 76.30
+Vivo Y20 2021                  164.40 X 76.30
+Vivo Y20A                      164.40 X 76.30
+Vivo Y20G                      164.40 X 76.30
+Vivo Y20I                      164.40 X 76.30
+Vivo Y20S                      164.40 X 76.30
+Vivo Y20S G                    164.40 X 76.30
+Vivo Y20T                      164.40 X 76.30
+Vivo Y30 China                 164.40 X 76.30
+Vivo Y30 Standard              164.40 X 76.30
+Vivo Y30G                      164.40 X 76.30
+Vivo Y3S 2021                  164.40 X 76.30
+Samsung Galaxy A04             164.40 X 76.30
+
+Vivo T1X 4G                    164.30 X 76.10
+Vivo T1X India                 164.30 X 76.10
+Vivo Y21 2021                  164.30 X 76.10
+Vivo Y21A                      164.30 X 76.10
+Vivo Y21E                      164.30 X 76.10
+Vivo Y21G                      164.30 X 76.10
+Vivo Y21S                      164.30 X 76.10
+Vivo Y21T                      164.30 X 76.10
+Vivo Y21T India                164.30 X 76.10
+Vivo Y22                       164.30 X 76.10
+Vivo Y22S                      164.30 X 76.10
+Vivo Y22S Europe               164.30 X 76.10
+Vivo Y32                       164.30 X 76.10
+Vivo Y33S                      164.30 X 76.10
+Vivo Y33T                      164.30 X 76.10
+Vivo Y35                       164.30 X 76.10
+Blackview A85                  164.30 X 76.10
+Energizer Ultimate U652S       164.30 X 76.10
+
+ZTE Nubia Redmagic 8 PRO       164.00 X 76.40
+ZTE Nubia Redmagic 8 PRO Plus  164.00 X 76.40
+ZTE Nubia Redmagic 8S PRO      164.00 X 76.40
+ZTE Nubia Redmagic 8S PRO Plus 164.00 X 76.40
+ZTE Nubia Redmagic 9 PRO       164.00 X 76.40
+ZTE Nubia Redmagic 9 PRO Plus  164.00 X 76.40
+ZTE Nubia Redmagic 9S PRO      164.00 X 76.40
+ZTE Nubia Redmagic 9S PRO Plus 164.00 X 76.40
+ZTE Nubia Z60 Ultra            164.00 X 76.40
+ZTE Nubia Z60 Ultra Leading    164.00 X 76.40
+
+Vivo Y100I                     164.10 X 76.20
+Vivo Y27                       164.10 X 76.20
+Vivo Y27 5G                    164.10 X 76.20
+Vivo Y27S                      164.10 X 76.20
+Vivo Y35 Plus                  164.10 X 76.20
+Vivo Y36                       164.10 X 76.20
+Vivo Y36 5G                    164.10 X 76.20
+Vivo Y36 India                 164.10 X 76.20
+Vivo Y77T                      164.10 X 76.20
+Vivo Y78 China                 164.10 X 76.20
+
+Xiaomi Poco M4 5G              164.00 X 76.10
+Xiaomi Poco M4 5G India        164.00 X 76.10
+Xiaomi Poco M5                 164.00 X 76.10
+Xiaomi Poco M5 India           164.00 X 76.10
+Xiaomi Redmi 10 5G             164.00 X 76.10
+Xiaomi Redmi 11 Prime          164.00 X 76.10
+Xiaomi Redmi 11 Prime 5G       164.00 X 76.10
+Xiaomi Redmi Note 11E          164.00 X 76.10
+Xiaomi Redmi Note 11R          164.00 X 76.10
+
+Xiaomi Poco X4 PRO 5G          164.20 X 76.10
+Xiaomi Redmi Note 11 PRO       164.20 X 76.10
+Xiaomi Redmi Note 11 PRO 5G    164.20 X 76.10
+Xiaomi Redmi Note 11 PRO Plus 5G India 164.20 X 76.10
+Xiaomi Redmi Note 11E PRO      164.20 X 76.10
+Xiaomi Redmi Note 12 PRO 4G    164.20 X 76.10
+Samsung Galaxy A32 5G          164.20 X 76.10
+Samsung Galaxy M32 5G          164.20 X 76.10
+Tecno Camon 12 AIR             164.20 X 76.10
+
+ZTE Blade X1 5G                164.00 X 76.00
+ZTE Nubia A75                  164.00 X 76.00
+ZTE Nubia A76                  164.00 X 76.00
+Infinix S5                     164.00 X 76.00
+Infinix S5 Lite                164.00 X 76.00
+Itel S23                       164.00 X 76.00
+Itel Zeno 10                   164.00 X 76.00
+Vivo Y02S                      164.00 X 76.00
+
+Vivo Iqoo NEO 7                164.80 X 76.90
+Vivo Iqoo NEO 7 PRO            164.80 X 76.90
+Vivo Iqoo NEO7 China           164.80 X 76.90
+Vivo Iqoo NEO7 Racing          164.80 X 76.90
+Vivo Iqoo NEO7 SE              164.80 X 76.90
+Umidigi Power 5                164.80 X 76.90
+Umidigi Power 5S               164.80 X 76.90
+
+Tecno Camon 15 AIR             164.50 X 76.50
+Tecno Camon 16 S               164.50 X 76.50
+Tecno Camon 17                 164.50 X 76.50
+Tecno Camon 18I                164.50 X 76.50
+Samsung Galaxy A13 5G          164.50 X 76.50
+Samsung Galaxy M13 5G          164.50 X 76.50
+
+Xiaomi Poco C50                164.90 X 76.80
+Xiaomi Poco C51                164.90 X 76.80
+Xiaomi Redmi A1                164.90 X 76.80
+Xiaomi Redmi A1 Plus           164.90 X 76.80
+Xiaomi Redmi A2                164.90 X 76.80
+Xiaomi Redmi A2 Plus           164.90 X 76.80
+
+Umidigi C1                     164.20 X 76.40
+Umidigi C1 MAX                 164.20 X 76.40
+Umidigi C1 Plus                164.20 X 76.40
+Meizu 20 PRO                   164.20 X 76.40
+Samsung Galaxy M52 5G          164.20 X 76.40
+
+Realme C21Y                    164.50 X 76.00
+Realme C25Y                    164.50 X 76.00
+BLU G52L                       164.50 X 76.00
+Lava Yuva 2 PRO                164.50 X 76.00
+Tecno Spark GO 2022            164.50 X 76.00
+
+Lava Blaze 2 5G                164.20 X 76.00
+Lava Yuva 3                    164.20 X 76.00
+Lava Yuva 4                    164.20 X 76.00
+Oscal C80                      164.20 X 76.00
+
+Infinix Note 12I 2022          164.50 X 76.70
+Infinix Note 30I               164.50 X 76.70
+Blackview A55                  164.50 X 76.70
+Vivo Iqoo 9 China              164.50 X 76.70
+
+Vivo Iqoo NEO5 SE              164.70 X 76.70
+Vivo Iqoo Z5                   164.70 X 76.70
+Vivo T1                        164.70 X 76.70
+Samsung Galaxy A04S            164.70 X 76.70
+
+Lava Blaze                     164.80 X 76.30
+Lava Blaze NXT                 164.80 X 76.30
+Lava Blaze PRO                 164.80 X 76.30
+BLU S91                        164.80 X 76.30
+
+Infinix HOT 12I                164.80 X 76.40
+Infinix HOT 20I                164.80 X 76.40
+Samsung Galaxy A90 5G          164.80 X 76.40
+ZTE S30                        164.80 X 76.40
+
+Infinix Note 11                164.40 X 76.70
+Infinix Note 12                164.40 X 76.70
+Infinix Zero 20                164.40 X 76.70
+
+Blackview A53                  164.60 X 76.90
+Blackview A53 PRO              164.60 X 76.90
+Oscal C30 PRO                  164.60 X 76.90
+
+BLU F92E                       164.70 X 76.00
+BLU S91 PRO                    164.70 X 76.00
+BLU Studio X5 MAX              164.70 X 76.00
+
+Tecno Spark 5                  164.70 X 76.30
+Tecno Spark 5 PRO              164.70 X 76.30
+Gionee P15                     164.70 X 76.30
+
+Tecno Spark 7                  164.80 X 76.10
+Tecno Spark 7T                 164.80 X 76.10
+Tecno Spark 8                  164.80 X 76.10
+
+Tecno POP 5 LTE                164.90 X 76.10
+Tecno POP 5 PRO                164.90 X 76.10
+Coolpad C35C                   164.90 X 76.10
+
+Xiaomi 11T                     164.10 X 76.90
+Xiaomi 11T PRO                 164.10 X 76.90
+
+Lava Blaze 3 5G                164.30 X 76.20
+Oppo Find X7 Ultra             164.30 X 76.20
+
+Nokia 5.3                      164.30 X 76.60
+ZTE Nubia Redmagic 10 AIR      164.30 X 76.60
+
+Samsung Galaxy A70             164.30 X 76.70
+Samsung Galaxy A70S            164.30 X 76.70
+
+Realme Q2I                     164.40 X 76.00
+Realme V3                      164.40 X 76.00
+
+Infinix Note 12 2023           164.40 X 76.50
+Infinix Note 12 PRO            164.40 X 76.50
+
+Tecno Spark 8P                 164.50 X 76.10
+Tecno Spark 9T India           164.50 X 76.10
+
+Xiaomi Redmi Note 10 PRO India 164.50 X 76.20
+Xiaomi Redmi Note 10 PRO MAX   164.50 X 76.20
+
+Tecno Spark 8C                 164.60 X 76.00
+Tecno Spark 9                  164.60 X 76.00
+
+Infinix Note 12 5G             164.70 X 76.90
+Infinix Note 12 PRO 5G         164.70 X 76.90
+
+HTC Wildfire E Star            164.80 X 76.50
+HTC Wildfire E3 Lite           164.80 X 76.50
+
+BLU Vivo ONE Plus              164.80 X 76.70
+Blackview A55 PRO              164.80 X 76.70
+
+Nokia G10                      164.90 X 76.00
+Nokia G20                      164.90 X 76.00
+
+Meizu M10                      164.90 X 76.30
+Tecno POP 6 PRO                164.90 X 76.30
+
+Xiaomi Redmi Note 10 PRO       164.00 X 76.50
+Tecno Camon 15                 164.10 X 76.40
+Yezz ART 2 PRO                 164.20 X 76.30
+Vivo Iqoo Z1X                  164.20 X 76.50
+ZTE Nubia AIR                  164.20 X 76.60
+Infinix HOT 10I                164.30 X 76.00
+Energizer Ultimate 65G         164.40 X 76.40
+Realme C65                     164.60 X 76.10
+Samsung Galaxy F52 5G          164.60 X 76.30
+BLU G90                        164.60 X 76.50
+Gionee S12                     164.60 X 76.60
+Infinix Note 12 G96            164.60 X 76.80
+Realme C31                     164.70 X 76.10
+Infinix HOT 11                 164.70 X 76.20
+Blackview Wave 6C              164.70 X 76.50
+Umidigi G5 Mecha               164.70 X 76.60
+Ulefone Note 14                164.80 X 76.00
+Oppo Find X6 PRO               164.80 X 76.20
+Tecno Spark 7 PRO              164.90 X 76.20

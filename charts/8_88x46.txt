@@ -1,0 +1,9 @@
+Benq Siemens CF61              88.00 X 46.00
+Benq Siemens EF61              88.00 X 46.00
+Nokia 6170                     88.00 X 46.00
+Nokia 7270                     88.00 X 46.00
+Philips 650                    88.00 X 46.00
+Philips 859                    88.00 X 46.00
+LG F2300                       88.00 X 46.00
+Samsung T200                   88.00 X 46.00
+

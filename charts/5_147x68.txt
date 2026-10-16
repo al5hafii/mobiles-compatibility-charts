@@ -1,0 +1,6 @@
+Alcatel 3                      147.10 X 68.80
+Google Pixel 4                 147.10 X 68.80
+Vodafone Smart N9              147.10 X 68.80
+
+ZTE Nubia Z9                   147.40 X 68.30
+Samsung Galaxy S9              147.70 X 68.70

@@ -1,0 +1,58 @@
+Xiaomi Poco F6                 160.50 X 74.50
+Xiaomi Poco M5S                160.50 X 74.50
+Xiaomi Redmi Note 10           160.50 X 74.50
+Xiaomi Redmi Note 10S          160.50 X 74.50
+Xiaomi Redmi Note 11 SE India  160.50 X 74.50
+
+Vivo S10E                      160.90 X 74.30
+Vivo V23E                      160.90 X 74.30
+Vivo V23E 5G                   160.90 X 74.30
+Vivo Y75                       160.90 X 74.30
+Realme 7 PRO                   160.90 X 74.30
+
+Realme Q2 PRO                  160.90 X 74.40
+Realme V15 5G                  160.90 X 74.40
+Realme X7                      160.90 X 74.40
+Realme X7 India                160.90 X 74.40
+Oneplus 7T                     160.90 X 74.40
+
+Oppo Find X2 Lite              160.30 X 74.30
+Oppo K7 5G                     160.30 X 74.30
+Oppo Reno3 5G                  160.30 X 74.30
+Oppo Reno3 Youth               160.30 X 74.30
+
+Vivo X200S                     160.00 X 74.30
+Vivo X200T                     160.00 X 74.30
+Oppo Reno2                     160.00 X 74.30
+
+Huawei Nova 8                  160.10 X 74.10
+Huawei Nova 8 5G               160.10 X 74.10
+Honor V40 Lite                 160.10 X 74.10
+
+Nokia C12                      160.60 X 74.30
+Nokia C12 PRO                  160.60 X 74.30
+Huawei Nova 7 5G               160.60 X 74.30
+
+Xiaomi Poco X6 PRO             160.50 X 74.30
+Xiaomi Redmi K70E              160.50 X 74.30
+
+Motorola Moto G72              160.50 X 74.40
+Xiaomi Redmi Turbo 3           160.50 X 74.40
+
+Oneplus 8T                     160.70 X 74.10
+Oneplus 8T Plus 5G             160.70 X 74.10
+
+Motorola Moto G71S             160.90 X 74.50
+Motorola Moto G82              160.90 X 74.50
+
+Samsung Galaxy F22             160.00 X 74.00
+Motorola Moto G84              160.00 X 74.40
+BLU Studio View XL             160.10 X 74.30
+Motorola Moto G52              160.10 X 74.50
+Vivo S30                       160.20 X 74.40
+Vivo Y500 PRO                  160.20 X 74.50
+Honor 30                       160.30 X 74.20
+Vivo X200                      160.30 X 74.80
+Vivo S20                       160.40 X 74.20
+Nokia C110                     160.80 X 74.00
+Motorola Edge 2022             160.90 X 74.20

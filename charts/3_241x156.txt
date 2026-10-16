@@ -1,0 +1,4 @@
+TCL TAB 10L GEN 3              241.20 X 156.60
+TCL TAB 10L GEN2               241.20 X 156.60
+
+Blackview TAB 80               241.00 X 156.00

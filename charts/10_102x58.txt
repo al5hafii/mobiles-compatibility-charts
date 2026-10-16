@@ -1,0 +1,11 @@
+HP Ipaq RW6815                 102.00 X 58.00
+HP Ipaq RW6818                 102.00 X 58.00
+HP Ipaq RW6828                 102.00 X 58.00
+Samsung REX 80 S5222R          102.00 X 58.00
+Samsung Star 3 Duos S5222      102.00 X 58.00
+Samsung Star 3 S5220           102.00 X 58.00
+O2 XDA Atom                    102.00 X 58.00
+O2 XDA Atom Exec               102.00 X 58.00
+NIU LIV 10                     102.00 X 58.00
+
+LG Optimus L1 II TRI E475      102.60 X 58.90

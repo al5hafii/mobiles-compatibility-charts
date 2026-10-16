@@ -1,0 +1,3 @@
+TCL TAB A1                     251.30 X 163.20
+TCL TAB A1 Nxtpaper            251.30 X 163.20
+

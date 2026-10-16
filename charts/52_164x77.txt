@@ -1,0 +1,63 @@
+Xiaomi Poco C3                 164.90 X 77.10
+Xiaomi Poco C31                164.90 X 77.10
+Xiaomi Redmi 10A               164.90 X 77.10
+Xiaomi Redmi 9 Activ           164.90 X 77.10
+Xiaomi Redmi 9 India           164.90 X 77.10
+Xiaomi Redmi 9A                164.90 X 77.10
+Xiaomi Redmi 9A Sport          164.90 X 77.10
+Xiaomi Redmi 9C NFC            164.90 X 77.10
+Xiaomi Redmi 9I                164.90 X 77.10
+Xiaomi Redmi 9I Sport          164.90 X 77.10
+Vivo Iqoo 11                   164.90 X 77.10
+Vivo Iqoo 11S                  164.90 X 77.10
+
+Samsung Galaxy A16             164.40 X 77.90
+Samsung Galaxy A16 5G          164.40 X 77.90
+Samsung Galaxy A17             164.40 X 77.90
+Samsung Galaxy A17 4G          164.40 X 77.90
+Samsung Galaxy A18 4G          164.40 X 77.90
+Samsung Galaxy F16             164.40 X 77.90
+Samsung Galaxy F17             164.40 X 77.90
+Samsung Galaxy F36             164.40 X 77.90
+Samsung Galaxy M16             164.40 X 77.90
+Samsung Galaxy M17             164.40 X 77.90
+Samsung Galaxy M36             164.40 X 77.90
+
+Huawei Pura 90 PRO MAX         164.00 X 77.10
+Huawei Pura 90S PRO MAX        164.00 X 77.10
+Umidigi A9                     164.00 X 77.10
+
+LG K61                         164.50 X 77.50
+LG Q51                         164.50 X 77.50
+LG Q61                         164.50 X 77.50
+
+Vivo Iqoo NEO8                 164.70 X 77.00
+Vivo Iqoo NEO8 PRO             164.70 X 77.00
+Samsung Galaxy M53             164.70 X 77.00
+
+Motorola Edge 70 MAX           164.00 X 77.00
+Nothing CMF Phone 1            164.00 X 77.00
+
+Motorola Moto G67              164.20 X 77.40
+Motorola Moto G77              164.20 X 77.40
+
+ZTE Nubia Z70 Ultra            164.30 X 77.10
+ZTE Nubia Z70S Ultra           164.30 X 77.10
+
+Samsung Galaxy Note20 Ultra    164.80 X 77.20
+Samsung Galaxy Note20 Ultra 5G 164.80 X 77.20
+
+Xiaomi Redmi 9AT               164.90 X 77.00
+Xiaomi Redmi 9C                164.90 X 77.00
+
+Samsung Galaxy F54             164.90 X 77.30
+Samsung Galaxy M54             164.90 X 77.30
+
+Samsung Galaxy A26             164.00 X 77.50
+Nothing Phone 4A               164.00 X 77.60
+Gionee K3 PRO                  164.30 X 77.60
+Vivo Iqoo 10                   164.50 X 77.10
+ZTE Nubia Z80 Ultra            164.50 X 77.20
+Motorola Moto G87              164.50 X 77.30
+ZTE Blade A7S 2020             164.70 X 77.40
+Tecno Pova 4 PRO               164.80 X 77.00

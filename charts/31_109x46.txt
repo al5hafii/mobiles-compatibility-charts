@@ -1,0 +1,33 @@
+Siemens A50                    109.00 X 46.00
+Siemens C45                    109.00 X 46.00
+Siemens M50                    109.00 X 46.00
+Siemens ME45                   109.00 X 46.00
+Siemens S45                    109.00 X 46.00
+Siemens S45I                   109.00 X 46.00
+Samsung E2230                  109.00 X 46.00
+Samsung L700                   109.00 X 46.00
+Samsung M3510 Beat B           109.00 X 46.00
+Samsung S3110                  109.00 X 46.00
+Alcatel OT-308                 109.00 X 46.00
+Alcatel OT-317D                109.00 X 46.00
+Alcatel OT-318D                109.00 X 46.00
+BLU Flash                      109.00 X 46.00
+Benq T60                       109.00 X 46.00
+I Mobile 627                   109.00 X 46.00
+LG LG-500                      109.00 X 46.00
+Micromax X099                  109.00 X 46.00
+Motorola W388                  109.00 X 46.00
+Orange Dallas                  109.00 X 46.00
+Philips X1510                  109.00 X 46.00
+Verykool I127                  109.00 X 46.00
+
+Nokia 2700 Classic             109.20 X 46.00
+Samsung E2232                  109.20 X 46.00
+
+Plum Buzz                      109.40 X 46.00
+O2 XDA Graphite                109.50 X 46.90
+Nokia 2600 Classic             109.60 X 46.70
+Nokia 2730 Classic             109.60 X 46.90
+Icemobile Rock                 109.70 X 46.60
+Nokia C2-01                    109.80 X 46.90
+Samsung S3310                  109.90 X 46.00

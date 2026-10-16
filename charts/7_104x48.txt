@@ -1,0 +1,8 @@
+Kyocera S1600                  104.00 X 48.00
+LG GM210                       104.00 X 48.00
+Philips 692                    104.00 X 48.00
+Sagem MY810X                   104.00 X 48.00
+Sony Ericsson T700             104.00 X 48.00
+
+Samsung T659 Scarlet           104.10 X 48.30
+Samsung L810V Steel            104.20 X 48.90

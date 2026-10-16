@@ -1,0 +1,61 @@
+Xiaomi Poco F5                 161.10 X 75.00
+Xiaomi Poco M6 PRO 4G          161.10 X 75.00
+Xiaomi Poco X6 NEO             161.10 X 75.00
+Xiaomi Redmi Note 12 Turbo     161.10 X 75.00
+Xiaomi Redmi Note 13           161.10 X 75.00
+Xiaomi Redmi Note 13 China     161.10 X 75.00
+Xiaomi Redmi Note 13 PRO 4G    161.10 X 75.00
+Xiaomi Redmi Note 13R PRO      161.10 X 75.00
+Xiaomi Redmi Note 14S          161.10 X 75.00
+
+Xiaomi Poco M3 PRO             161.80 X 75.30
+Xiaomi Poco M3 PRO 5G          161.80 X 75.30
+Xiaomi Redmi Note 10 5G        161.80 X 75.30
+Xiaomi Redmi Note 11SE         161.80 X 75.30
+
+Huawei Nova 11                 161.30 X 75.00
+Huawei Nova 12 Lite            161.30 X 75.00
+Huawei Nova 12S                161.30 X 75.00
+
+Xiaomi 15 PRO                  161.30 X 75.30
+Xiaomi 15 Ultra                161.30 X 75.30
+Xiaomi 15S PRO                 161.30 X 75.30
+
+Xiaomi 14 PRO                  161.40 X 75.30
+Xiaomi 14 Ultra                161.40 X 75.30
+Huawei Nova 13                 161.40 X 75.30
+
+Oneplus 13R                    161.70 X 75.80
+Oneplus ACE 5                  161.70 X 75.80
+Oneplus ACE 5 PRO              161.70 X 75.80
+
+Oppo Reno ACE                  161.00 X 75.70
+Realme X2 PRO                  161.00 X 75.70
+
+Honor Magic8 PRO               161.20 X 75.00
+Honor Magic8 RSR Porsche Design 161.20 X 75.00
+
+Samsung Galaxy Note20          161.60 X 75.20
+Samsung Galaxy Note20 5G       161.60 X 75.20
+
+Honor Magic6                   161.80 X 75.40
+Xiaomi Redmi Note 10T 5G       161.80 X 75.40
+
+Huawei Nova 14 Lite            161.80 X 75.50
+Huawei Nova 16Z                161.80 X 75.50
+
+Tecno Camon 40 Premier         161.00 X 75.00
+Xiaomi Redmi Turbo 4           161.00 X 75.20
+Xiaomi Redmi Note 8T           161.10 X 75.40
+Vivo X300 PRO                  161.20 X 75.50
+Vivo V15                       161.20 X 75.90
+Motorola Moto G8               161.30 X 75.80
+Honor Magic5                   161.40 X 75.50
+Huawei Nova 12                 161.50 X 75.40
+Samsung Galaxy S21 Plus 5G     161.50 X 75.60
+Xiaomi Black Shark             161.60 X 75.40
+Fairphone 5                    161.60 X 75.80
+Realme GT5 PRO                 161.70 X 75.10
+Huawei Nova 14                 161.70 X 75.50
+Huawei Nova 15                 161.90 X 75.50
+Motorola Moto G Fast           161.90 X 75.70

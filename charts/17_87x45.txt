@@ -1,0 +1,18 @@
+LG F2250                       87.00 X 45.00
+LG GB125                       87.00 X 45.00
+LG KP202                       87.00 X 45.00
+Samsung B300                   87.00 X 45.00
+Samsung M310                   87.00 X 45.00
+Samsung X670                   87.00 X 45.00
+Alcatel OT-E227                87.00 X 45.00
+Alcatel OT-E260                87.00 X 45.00
+Motorola V60                   87.00 X 45.00
+Motorola V60I                  87.00 X 45.00
+
+Samsung E360                   87.00 X 45.50
+Alcatel OT-V270                87.50 X 45.00
+Sony Ericsson Z550             87.50 X 45.40
+Sony Ericsson Z558             87.50 X 45.50
+Samsung E340                   87.60 X 45.60
+Philips S890                   87.70 X 45.70
+Alcatel OT 835                 87.70 X 45.90

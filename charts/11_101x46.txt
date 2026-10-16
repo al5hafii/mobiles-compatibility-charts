@@ -1,0 +1,12 @@
+LG C2500                       101.00 X 46.00
+LG KP105                       101.00 X 46.00
+LG KP108                       101.00 X 46.00
+Siemens M55                    101.00 X 46.00
+Siemens Xelibri 1              101.00 X 46.00
+Sony Ericsson R300 Radio       101.00 X 46.00
+Sony Ericsson S302             101.00 X 46.00
+Alcatel OT 156                 101.00 X 46.00
+Amoi A203                      101.00 X 46.00
+Motorola EM25                  101.00 X 46.00
+Samsung D520                   101.00 X 46.00
+

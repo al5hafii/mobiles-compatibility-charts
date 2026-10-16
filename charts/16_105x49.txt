@@ -1,0 +1,17 @@
+Ericsson GF 768                105.00 X 49.00
+Ericsson GF 788                105.00 X 49.00
+Ericsson GF 788E               105.00 X 49.00
+Ericsson PF 768                105.00 X 49.00
+Ericsson T10S                  105.00 X 49.00
+Ericsson T18S                  105.00 X 49.00
+Ericsson T36                   105.00 X 49.00
+Ericsson T65                   105.00 X 49.00
+LG GB280                       105.00 X 49.00
+Mitsubishi M430I M900          105.00 X 49.00
+Nokia E65                      105.00 X 49.00
+Samsung S5050                  105.00 X 49.00
+
+Samsung S5530                  105.00 X 49.50
+Telit T550                     105.00 X 49.60
+I Mobile 518                   105.50 X 49.00
+Samsung U900 Soul              105.90 X 49.50

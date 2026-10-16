@@ -1,0 +1,52 @@
+Alcatel OT-105                 108.00 X 46.00
+Alcatel OT-108                 108.00 X 46.00
+Alcatel OT-109                 108.00 X 46.00
+Alcatel OT-112                 108.00 X 46.00
+Alcatel OT-113                 108.00 X 46.00
+Alcatel OT-208                 108.00 X 46.00
+Alcatel OT-209                 108.00 X 46.00
+Alcatel OT-213                 108.00 X 46.00
+Alcatel OT-300                 108.00 X 46.00
+Alcatel OT-301                 108.00 X 46.00
+Celkon C10                     108.00 X 46.00
+Celkon C20                     108.00 X 46.00
+Celkon C444                    108.00 X 46.00
+Celkon C509                    108.00 X 46.00
+Celkon C517                    108.00 X 46.00
+Motorola E398                  108.00 X 46.00
+Motorola Rokr E1               108.00 X 46.00
+Motorola WX161                 108.00 X 46.00
+Motorola WX181                 108.00 X 46.00
+Nokia 1680 Classic             108.00 X 46.00
+Nokia 5320 Xpressmusic         108.00 X 46.00
+Nokia 6233                     108.00 X 46.00
+Nokia 6234                     108.00 X 46.00
+Siemens CX65                   108.00 X 46.00
+Siemens CX70                   108.00 X 46.00
+Siemens CXT65                  108.00 X 46.00
+ZTE R228                       108.00 X 46.00
+ZTE R228 Dual SIM              108.00 X 46.00
+ZTE R230                       108.00 X 46.00
+Samsung E1390                  108.00 X 46.00
+Samsung E1410                  108.00 X 46.00
+Unnecto Primo                  108.00 X 46.00
+Unnecto Primo 3G               108.00 X 46.00
+Benq E72                       108.00 X 46.00
+LG KM338                       108.00 X 46.00
+NIU GO 50                      108.00 X 46.00
+
+Verykool I128                  108.50 X 46.80
+ZTE A261                       108.50 X 46.80
+
+Nokia 6303 Classic             108.80 X 46.20
+Nokia 6303I Classic            108.80 X 46.20
+
+Haier M300                     108.00 X 46.10
+Kyocera Solo E4000             108.00 X 46.30
+Philips Xenium 9 9T            108.00 X 46.50
+Micromax X098                  108.30 X 46.00
+Philips X116                   108.30 X 46.70
+Plum BAR 3G                    108.50 X 46.30
+Samsung E1170                  108.70 X 46.10
+Micromax X360                  108.70 X 46.50
+LG A230                        108.80 X 46.60

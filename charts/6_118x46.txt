@@ -1,0 +1,7 @@
+Siemens A35                    118.00 X 46.00
+Siemens A36                    118.00 X 46.00
+Siemens A40                    118.00 X 46.00
+Siemens C35                    118.00 X 46.00
+Siemens C35I                   118.00 X 46.00
+Siemens S35I                   118.00 X 46.00
+

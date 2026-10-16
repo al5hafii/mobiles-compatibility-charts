@@ -1,0 +1,19 @@
+NEC E525                       101.00 X 48.00
+NEC E530                       101.00 X 48.00
+NEC N22I                       101.00 X 48.00
+NEC N331I                      101.00 X 48.00
+NEC N341I                      101.00 X 48.00
+NEC N500IS                     101.00 X 48.00
+NEC N820                       101.00 X 48.00
+Alcatel OT-C551                101.00 X 48.00
+Alcatel OT-C555                101.00 X 48.00
+Nokia 5330 Mobile TV Edition   101.00 X 48.00
+Nokia 5330 Xpressmusic         101.00 X 48.00
+Ericsson T68                   101.00 X 48.00
+LG CF360                       101.00 X 48.00
+Motorola C331                  101.00 X 48.00
+Sony Ericsson T68I             101.00 X 48.00
+
+Samsung M3310                  101.00 X 48.70
+LG KM500                       101.50 X 48.00
+Samsung S5550 Shark 2          101.80 X 48.70

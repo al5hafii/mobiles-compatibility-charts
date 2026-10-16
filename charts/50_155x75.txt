@@ -1,0 +1,63 @@
+Vivo Y1S                       155.10 X 75.10
+Vivo Y90                       155.10 X 75.10
+Vivo Y91                       155.10 X 75.10
+Vivo Y91 Mediatek              155.10 X 75.10
+Vivo Y91I                      155.10 X 75.10
+Vivo Y91I India                155.10 X 75.10
+Vivo Y93                       155.10 X 75.10
+Vivo Y93 Mediatek              155.10 X 75.10
+Vivo Y93S                      155.10 X 75.10
+Vivo Y95                       155.10 X 75.10
+
+Lenovo A7                      155.00 X 75.00
+Nokia 9 Pureview               155.00 X 75.00
+Sony Xperia XA1 Plus           155.00 X 75.00
+ZTE Nubia N2                   155.00 X 75.00
+
+Allview Soul X5 PRO            155.00 X 75.50
+BLU Vivo XI Plus               155.00 X 75.50
+Panasonic Eluga X1 PRO         155.00 X 75.50
+
+Asus Zenfone 4 Selfie Lite ZB553KL 155.70 X 75.90
+Asus Zenfone 4 Selfie ZB553KL  155.70 X 75.90
+Asus Zenfone 4 Selfie ZD553KL  155.70 X 75.90
+
+Oppo A5S AX5S                  155.90 X 75.40
+Oppo A7                        155.90 X 75.40
+Oppo A7N                       155.90 X 75.40
+
+Oppo A11K                      155.90 X 75.50
+Oppo A12                       155.90 X 75.50
+Oppo A12S                      155.90 X 75.50
+
+Motorola Moto Z Force          155.90 X 75.80
+Plum Phantom 2                 155.90 X 75.80
+Vivo V7 Plus                   155.90 X 75.80
+
+Vivo Y81                       155.10 X 75.00
+Vivo Y81I                      155.10 X 75.00
+
+Vivo Y83                       155.20 X 75.20
+Vivo Y83 PRO                   155.20 X 75.20
+
+Samsung Galaxy A10             155.60 X 75.60
+Samsung Galaxy M10             155.60 X 75.60
+
+LG K22                         155.70 X 75.40
+Oneplus 6                      155.70 X 75.40
+
+Blackberry Motion              155.80 X 75.50
+Energizer Ultimate U620S       155.80 X 75.50
+
+Vivo Y71                       155.90 X 75.70
+Vivo Y71I                      155.90 X 75.70
+
+Oppo R15                       155.10 X 75.20
+Oppo R11S                      155.10 X 75.50
+Tecno Spark 3                  155.30 X 75.80
+Asus Zenfone 4 ZE554KL         155.40 X 75.20
+Xiaomi MI A1 MI 5X             155.40 X 75.80
+Allview X4 Soul Lite           155.40 X 75.90
+Xiaomi Pocophone F1            155.50 X 75.30
+Vivo X20                       155.90 X 75.20
+Vivo Y97                       155.90 X 75.60

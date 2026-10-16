@@ -1,0 +1,5 @@
+Motorola A910                  93.00 X 51.00
+Motorola E895                  93.00 X 51.00
+Huawei G7005                   93.00 X 51.00
+
+Spice M-5455 FLO               93.60 X 51.60

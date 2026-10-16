@@ -1,0 +1,10 @@
+Microsoft Lumia 640 XL         157.90 X 81.50
+Microsoft Lumia 640 XL Dual SIM 157.90 X 81.50
+Microsoft Lumia 640 XL LTE     157.90 X 81.50
+Microsoft Lumia 640 XL LTE Dual SIM 157.90 X 81.50
+
+Huawei Ascend Mate7            157.00 X 81.00
+Huawei Ascend Mate7 Monarch    157.00 X 81.00
+
+LG G3 Screen                   157.80 X 81.80
+LG G PRO 2                     157.90 X 81.90

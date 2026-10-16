@@ -1,0 +1,5 @@
+Motorola C250                  101.00 X 42.00
+Motorola C333                  101.00 X 42.00
+Motorola C350                  101.00 X 42.00
+Siemens S55                    101.00 X 42.00
+

@@ -1,0 +1,20 @@
+Sony Ericsson G502             103.00 X 46.00
+Sony Ericsson K200             103.00 X 46.00
+Sony Ericsson K205             103.00 X 46.00
+Sony Ericsson K220             103.00 X 46.00
+LG GB160                       103.00 X 46.00
+LG GB170                       103.00 X 46.00
+LG KP220                       103.00 X 46.00
+Nokia 8910                     103.00 X 46.00
+Nokia 8910I                    103.00 X 46.00
+Siemens A51                    103.00 X 46.00
+Siemens A57                    103.00 X 46.00
+Bird S618                      103.00 X 46.00
+Sagem MY226X                   103.00 X 46.00
+Vodafone 226                   103.00 X 46.00
+
+Sony Ericsson W880             103.00 X 46.50
+Sony Ericsson W888             103.00 X 46.50
+
+LG KP110                       103.10 X 46.00
+Vodafone 235                   103.50 X 46.00

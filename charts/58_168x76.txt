@@ -1,0 +1,71 @@
+Xiaomi Poco M6 4G              168.60 X 76.30
+Xiaomi Poco M6 Plus            168.60 X 76.30
+Xiaomi Poco M6 PRO             168.60 X 76.30
+Xiaomi Redmi 12                168.60 X 76.30
+Xiaomi Redmi 12 5G             168.60 X 76.30
+Xiaomi Redmi 13                168.60 X 76.30
+Xiaomi Redmi 13 5G             168.60 X 76.30
+Xiaomi Redmi 13X               168.60 X 76.30
+Xiaomi Redmi Note 12R          168.60 X 76.30
+Xiaomi Redmi Note 13R          168.60 X 76.30
+
+Tecno Pova 5                   168.60 X 76.60
+Tecno Pova 6 NEO               168.60 X 76.60
+Tecno Pova 7 4G                168.60 X 76.60
+Tecno Spark 20 PRO             168.60 X 76.60
+Infinix HOT 40                 168.60 X 76.60
+Infinix HOT 40 PRO             168.60 X 76.60
+Infinix Note 30                168.60 X 76.60
+
+Umidigi F3                     168.30 X 76.60
+Umidigi F3 5G                  168.30 X 76.60
+Umidigi F3 SE                  168.30 X 76.60
+Umidigi F3S                    168.30 X 76.60
+
+Infinix HOT 30 5G              168.50 X 76.50
+Infinix Note 30 5G             168.50 X 76.50
+Tecno Pova 5 PRO               168.50 X 76.50
+
+Lava Blaze PRO 5G              168.70 X 76.70
+Lava Storm                     168.70 X 76.70
+BLU G93                        168.70 X 76.70
+
+Ulefone Note 18 PRO            168.80 X 76.80
+Ulefone Note 18 Ultra          168.80 X 76.80
+Lava Agni 5G                   168.80 X 76.80
+
+Tecno Camon 18                 168.90 X 76.70
+Tecno Camon 18 P               168.90 X 76.70
+Tecno Camon 18T                168.90 X 76.70
+
+Xiaomi Poco C61                168.40 X 76.30
+Xiaomi Redmi A3X               168.40 X 76.30
+
+Blackview Shark 8              168.50 X 76.60
+Oscal Tiger 12                 168.50 X 76.60
+
+Infinix Zero 8                 168.70 X 76.10
+Infinix Zero 8I                168.70 X 76.10
+
+Infinix Zero 5G                168.70 X 76.50
+Infinix Zero 5G 2023           168.70 X 76.50
+
+BLU F91                        168.70 X 76.80
+Infinix HOT 20S                168.70 X 76.80
+
+Xiaomi Poco C55                168.80 X 76.40
+Xiaomi Redmi 12C               168.80 X 76.40
+
+Tecno Spark 30                 168.00 X 76.40
+BLU G91S                       168.00 X 76.50
+Xiaomi Redmi A3                168.30 X 76.30
+ZTE Nubia NEO 3                168.30 X 76.50
+TCL 505                        168.30 X 76.70
+Tecno Spark 10 PRO             168.40 X 76.20
+Infinix Zero X NEO             168.40 X 76.50
+Tecno Spark 20 PRO 5G          168.50 X 76.20
+Umidigi A13 PRO MAX            168.50 X 76.30
+Tecno Camon 17P                168.70 X 76.40
+Infinix HOT 30                 168.70 X 76.60
+Tecno Camon 19 NEO             168.80 X 76.90
+Infinix Note 40X 5G            168.90 X 76.50

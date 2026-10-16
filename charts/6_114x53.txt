@@ -1,0 +1,7 @@
+Motorola C975                  114.00 X 53.00
+Motorola C980                  114.00 X 53.00
+Motorola Z9                    114.00 X 53.00
+Samsung T369                   114.00 X 53.00
+Telit G82                      114.00 X 53.00
+
+Samsung T459 Gravity           114.30 X 53.30

@@ -1,0 +1,39 @@
+Xiaomi Poco F7 PRO             160.30 X 75.00
+Xiaomi Poco F7 Ultra           160.30 X 75.00
+Xiaomi Redmi K80               160.30 X 75.00
+Xiaomi Redmi K80 PRO           160.30 X 75.00
+
+Huawei Enjoy 20 PRO            160.00 X 75.30
+Huawei Enjoy Z 5G              160.00 X 75.30
+Honor 30 Youth                 160.00 X 75.30
+
+Xiaomi 14T PRO                 160.40 X 75.10
+Xiaomi Redmi K70 Ultra         160.40 X 75.10
+Google Pixel 4 XL              160.40 X 75.10
+
+Xiaomi 11 Lite 5G NE           160.50 X 75.70
+Xiaomi MI 11 Lite              160.50 X 75.70
+Xiaomi MI 11 Lite 5G           160.50 X 75.70
+
+Xiaomi Poco F6 PRO             160.90 X 75.00
+Xiaomi Redmi K70               160.90 X 75.00
+Xiaomi Redmi K70 PRO           160.90 X 75.00
+
+Tecno Pova 7 Ultra             160.00 X 75.20
+Xiaomi Black Shark Helo        160.00 X 75.20
+
+Vivo S20 PRO                   160.60 X 75.00
+Vivo T4 Ultra                  160.60 X 75.00
+
+Oppo ACE2                      160.00 X 75.40
+Motorola Moto G6 Plus          160.00 X 75.50
+Vivo Iqoo 5 5G                 160.00 X 75.60
+Vivo X70                       160.10 X 75.40
+Samsung Galaxy A6 Plus 2018    160.20 X 75.70
+Xiaomi 14T                     160.50 X 75.10
+Nothing Phone 3                160.60 X 75.60
+Lava Agni 4                    160.70 X 75.30
+Realme X7 PRO                  160.80 X 75.10
+Xiaomi Poco X7 PRO             160.80 X 75.20
+Motorola Moto E5 Plus          160.90 X 75.30
+Huawei Mate 70                 160.90 X 75.90

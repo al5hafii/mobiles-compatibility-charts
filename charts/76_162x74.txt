@@ -1,0 +1,96 @@
+Realme 8 5G                    162.50 X 74.80
+Realme 8S 5G                   162.50 X 74.80
+Realme Narzo 30 5G             162.50 X 74.80
+Realme Q3 5G                   162.50 X 74.80
+Realme Q3I 5G                  162.50 X 74.80
+Realme V13 5G                  162.50 X 74.80
+Xiaomi MI 10 5G                162.50 X 74.80
+Xiaomi MI 10 PRO 5G            162.50 X 74.80
+Samsung Galaxy Note8           162.50 X 74.80
+
+Vivo S18E                      162.40 X 74.90
+Vivo V29E                      162.40 X 74.90
+Vivo V30 Lite                  162.40 X 74.90
+Vivo V30 Lite ME               162.40 X 74.90
+Vivo Y200                      162.40 X 74.90
+Vivo Y200 India                162.40 X 74.90
+
+Honor Magic3                   162.80 X 74.90
+Honor Magic3 PRO               162.80 X 74.90
+Honor Magic3 PRO Plus          162.80 X 74.90
+Realme 14 PRO                  162.80 X 74.90
+Realme Narzo 80 PRO            162.80 X 74.90
+
+Honor 90 Lite                  162.90 X 74.50
+Honor Play7T PRO               162.90 X 74.50
+Honor X40I                     162.90 X 74.50
+Honor X50I                     162.90 X 74.50
+Honor X8A                      162.90 X 74.50
+
+Realme 6                       162.10 X 74.80
+Realme 6I India                162.10 X 74.80
+Realme 6S                      162.10 X 74.80
+Realme Narzo                   162.10 X 74.80
+
+Motorola Edge 60 Stylus        162.20 X 74.80
+Motorola Moto G Stylus 2026    162.20 X 74.80
+Motorola Moto G Stylus 5G 2025 162.20 X 74.80
+Oppo K9X                       162.20 X 74.80
+
+Oppo A2 PRO                    162.70 X 74.30
+Oppo A3 PRO China              162.70 X 74.30
+Oppo F27 PRO                   162.70 X 74.30
+Oppo F27 PRO Plus              162.70 X 74.30
+
+Oppo A54 5G                    162.90 X 74.70
+Oppo A74 5G                    162.90 X 74.70
+Oppo A93 5G                    162.90 X 74.70
+Oppo A93S 5G                   162.90 X 74.70
+
+Sony Xperia 1 VI               162.00 X 74.00
+Sony Xperia 1 VII              162.00 X 74.00
+Sony Xperia 1 Viii             162.00 X 74.00
+
+Oppo Reno10 PRO                162.30 X 74.20
+Oppo Reno9                     162.30 X 74.20
+Oppo Reno9 PRO                 162.30 X 74.20
+
+Xiaomi Poco X7                 162.30 X 74.40
+Xiaomi Redmi Note 14 PRO 5G    162.30 X 74.40
+Xiaomi Redmi Note 14 PRO 5G India 162.30 X 74.40
+
+Motorola Moto G Stylus 5G 2024 162.60 X 74.80
+Realme 9 5G India              162.60 X 74.80
+Xiaomi MI 10S                  162.60 X 74.80
+
+Motorola Moto G13              162.70 X 74.70
+Motorola Moto G23              162.70 X 74.70
+Motorola Moto G53              162.70 X 74.70
+
+Cubot Hafury Meet              162.20 X 74.00
+Cubot X90                      162.20 X 74.00
+
+Oppo A1 PRO                    162.30 X 74.30
+Oppo Reno8 T 5G                162.30 X 74.30
+
+Oppo Reno11 China              162.40 X 74.10
+Oppo Reno11 PRO                162.40 X 74.10
+
+Oppo Reno10                    162.40 X 74.20
+Oppo Reno10 China              162.40 X 74.20
+
+Xiaomi Redmi Note 14 PRO Plus 5G 162.50 X 74.70
+Xiaomi Redmi Note 14 PRO Plus 5G India 162.50 X 74.70
+
+Motorola Moto G34              162.70 X 74.60
+Motorola Moto G45              162.70 X 74.60
+
+Motorola Moto G Stylus 2023    162.90 X 74.10
+Oppo Find X6                   162.90 X 74.10
+
+Oneplus 9RT 5G                 162.20 X 74.60
+Xiaomi Redmi Note 14 PRO 4G    162.20 X 74.90
+Oppo Reno11                    162.40 X 74.30
+Coolpad Cool 20 PRO            162.80 X 74.80
+Oppo Reno10 PRO Plus           162.90 X 74.00
+Xiaomi 13 PRO                  162.90 X 74.60

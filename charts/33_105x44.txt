@@ -1,0 +1,38 @@
+LG B2050                       105.00 X 44.00
+LG B2150                       105.00 X 44.00
+LG G1500                       105.00 X 44.00
+LG L3100                       105.00 X 44.00
+Philips M200                   105.00 X 44.00
+Philips M600                   105.00 X 44.00
+Philips Xenium 9 9V            105.00 X 44.00
+Philips Xenium X300            105.00 X 44.00
+Nokia 2100                     105.00 X 44.00
+Nokia 7250                     105.00 X 44.00
+Nokia 7250I                    105.00 X 44.00
+Motorola C200                  105.00 X 44.00
+Motorola C205                  105.00 X 44.00
+Samsung C120                   105.00 X 44.00
+Samsung E1100                  105.00 X 44.00
+Bird M07                       105.00 X 44.00
+I Mobile 202                   105.00 X 44.00
+
+Motorola WX390                 105.00 X 44.90
+Motorola WX395                 105.00 X 44.90
+Alcatel OT-600                 105.00 X 44.90
+NIU GO 21                      105.00 X 44.90
+
+Nokia 5070                     105.40 X 44.30
+Nokia 6070                     105.40 X 44.30
+Nokia 6080                     105.40 X 44.30
+
+Bird S661                      105.30 X 44.00
+Bird S663                      105.30 X 44.00
+
+Bird D611                      105.50 X 44.00
+Bird D612                      105.50 X 44.00
+
+Celkon C201                    105.00 X 44.40
+Samsung Impact B               105.00 X 44.50
+Samsung E1107 Crest Solar      105.20 X 44.20
+Philips 180                    105.20 X 44.70
+Spice M-4580N                  105.30 X 44.60

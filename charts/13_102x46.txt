@@ -1,0 +1,14 @@
+Sony Ericsson F500I            102.00 X 46.00
+Sony Ericsson K500             102.00 X 46.00
+Sony Ericsson K530             102.00 X 46.00
+Sony Ericsson K550             102.00 X 46.00
+Sony Ericsson K550IM           102.00 X 46.00
+Sony Ericsson W610             102.00 X 46.00
+Sony Ericsson W660             102.00 X 46.00
+Benq Siemens A58               102.00 X 46.00
+Motorola C336                  102.00 X 46.00
+Nokia 8855                     102.00 X 46.00
+Siemens A31                    102.00 X 46.00
+
+LG C2600                       102.00 X 46.50
+Pantech PG-3600V               102.30 X 46.60

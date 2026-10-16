@@ -1,0 +1,19 @@
+TCL 50 Nxtpaper                167.60 X 75.50
+TCL 50 PRO Nxtpaper            167.60 X 75.50
+TCL 50 XL                      167.60 X 75.50
+TCL 50 XL Nxtpaper             167.60 X 75.50
+TCL 60 Nxtpaper 4G             167.60 X 75.50
+TCL 60 XE Nxtpaper             167.60 X 75.50
+Alcatel V3 Ultra               167.60 X 75.50
+
+Umidigi A15                    167.60 X 75.30
+Umidigi A15C                   167.60 X 75.30
+Umidigi A15T                   167.60 X 75.30
+
+Meizu Note 16                  167.60 X 75.80
+Meizu Note 22                  167.60 X 75.80
+
+Tecno Pova 7                   167.30 X 75.60
+Motorola G Pure                167.40 X 75.60
+Umidigi A11 PRO MAX            167.80 X 75.60
+Infinix HOT 50 4G              167.90 X 75.60

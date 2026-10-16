@@ -1,0 +1,326 @@
+Vivo Iqoo U5                   164.00 X 75.80
+Vivo Iqoo U5E                  164.00 X 75.80
+Vivo Iqoo Z6                   164.00 X 75.80
+Vivo Iqoo Z6 China             164.00 X 75.80
+Vivo Iqoo Z6 Lite              164.00 X 75.80
+Vivo T1 5G                     164.00 X 75.80
+Vivo Y77                       164.00 X 75.80
+Vivo Y77E                      164.00 X 75.80
+Vivo Y77E T1                   164.00 X 75.80
+Infinix HOT 30I                164.00 X 75.80
+Infinix HOT 30I 50 MP          164.00 X 75.80
+Infinix HOT 60 PRO Plus        164.00 X 75.80
+Samsung Galaxy A12             164.00 X 75.80
+Samsung Galaxy A12 India       164.00 X 75.80
+Samsung Galaxy A12 Nacho       164.00 X 75.80
+ZTE Blade A34                  164.00 X 75.80
+ZTE Blade A53 PRO              164.00 X 75.80
+ZTE Blade A54                  164.00 X 75.80
+Honor Play 20                  164.00 X 75.80
+Oukitel C7                     164.00 X 75.80
+
+Vivo Y30 5G                    164.00 X 75.90
+Vivo Y33E                      164.00 X 75.90
+Vivo Y33S 5G                   164.00 X 75.90
+Vivo Y52T                      164.00 X 75.90
+Vivo Y55 5G                    164.00 X 75.90
+Vivo Y55S 2023                 164.00 X 75.90
+Vivo Y75 5G                    164.00 X 75.90
+Samsung Galaxy A02             164.00 X 75.90
+Samsung Galaxy F12             164.00 X 75.90
+Samsung Galaxy M02             164.00 X 75.90
+Samsung Galaxy M12             164.00 X 75.90
+Samsung Galaxy M12 India       164.00 X 75.90
+Umidigi C2                     164.00 X 75.90
+
+Samsung Galaxy A02S            164.20 X 75.90
+Samsung Galaxy A03             164.20 X 75.90
+Samsung Galaxy A03 Core        164.20 X 75.90
+Samsung Galaxy A03S            164.20 X 75.90
+Samsung Galaxy A04E            164.20 X 75.90
+Samsung Galaxy F02S            164.20 X 75.90
+Samsung Galaxy F04             164.20 X 75.90
+Samsung Galaxy M02S            164.20 X 75.90
+Samsung Galaxy M04             164.20 X 75.90
+Tecno Pova Slim                164.20 X 75.90
+Tecno Spark Slim               164.20 X 75.90
+
+Vivo Iqoo Z1                   164.00 X 75.60
+Vivo Y02                       164.00 X 75.60
+Vivo Y02A                      164.00 X 75.60
+Vivo Y02T                      164.00 X 75.60
+Vivo Y11 2023                  164.00 X 75.60
+Vivo Y16                       164.00 X 75.60
+Honor Play 60                  164.00 X 75.60
+Honor Play10C                  164.00 X 75.60
+Honor X5                       164.00 X 75.60
+Honor X6C                      164.00 X 75.60
+
+Realme 10 5G                   164.40 X 75.10
+Realme 10S                     164.40 X 75.10
+Realme 10T                     164.40 X 75.10
+Realme 9I 5G                   164.40 X 75.10
+Realme V20                     164.40 X 75.10
+Vivo S18                       164.40 X 75.10
+Vivo S18 PRO                   164.40 X 75.10
+Vivo V30                       164.40 X 75.10
+Vivo V30 PRO                   164.40 X 75.10
+Vivo V40 PRO                   164.40 X 75.10
+
+Realme 7I Global               164.50 X 75.90
+Realme C12                     164.50 X 75.90
+Realme C15                     164.50 X 75.90
+Realme C15 Qualcomm Edition    164.50 X 75.90
+Realme C25                     164.50 X 75.90
+Realme C25S                    164.50 X 75.90
+Realme Narzo 20                164.50 X 75.90
+Realme Narzo 30A               164.50 X 75.90
+Realme Narzo 50A               164.50 X 75.90
+Wiko T20                       164.50 X 75.90
+
+Oppo A15                       164.00 X 75.40
+Oppo A15S                      164.00 X 75.40
+Oppo A16E                      164.00 X 75.40
+Oppo A16K                      164.00 X 75.40
+Oppo A35                       164.00 X 75.40
+Xiaomi Poco M8                 164.00 X 75.40
+Xiaomi Redmi Note 15           164.00 X 75.40
+Xiaomi Redmi Note 15 4G        164.00 X 75.40
+Xiaomi Redmi Note 15 Special   164.00 X 75.40
+
+Vivo Iqoo Z7 China             164.60 X 75.80
+Vivo Iqoo Z7X                  164.60 X 75.80
+Vivo Iqoo Z8 China             164.60 X 75.80
+Vivo Iqoo Z8X                  164.60 X 75.80
+Vivo Y100T                     164.60 X 75.80
+Vivo Y78T                      164.60 X 75.80
+Lava X3                        164.60 X 75.80
+Lava Yuva                      164.60 X 75.80
+BLU G61                        164.60 X 75.80
+
+Vivo Iqoo U6                   164.10 X 75.60
+Vivo Iqoo Z7I                  164.10 X 75.60
+Vivo T2X India                 164.10 X 75.60
+Vivo X100 Ultra                164.10 X 75.60
+Vivo Y35 5G                    164.10 X 75.60
+Vivo Y56                       164.10 X 75.60
+Realme C30                     164.10 X 75.60
+Realme Narzo 50I Prime         164.10 X 75.60
+
+Realme 9 5G                    164.30 X 75.60
+Realme 9 PRO                   164.30 X 75.60
+Realme Q5                      164.30 X 75.60
+Realme V25                     164.30 X 75.60
+Oneplus Nord 2 Lite            164.30 X 75.60
+Oneplus Nord CE 2 Lite 5G      164.30 X 75.60
+Oppo K10X                      164.30 X 75.60
+Tecno Spark 9T                 164.30 X 75.60
+
+Vivo Iqoo Z3                   164.00 X 75.30
+Vivo Iqoo Z5X                  164.00 X 75.30
+Vivo T1X                       164.00 X 75.30
+Vivo Y52 5G                    164.00 X 75.30
+Vivo Y53S                      164.00 X 75.30
+Vivo Y72 5G                    164.00 X 75.30
+Vivo Y75S                      164.00 X 75.30
+
+Vivo Iqoo U3                   164.20 X 75.40
+Vivo Iqoo U3X                  164.20 X 75.40
+Vivo Y31S                      164.20 X 75.40
+Vivo Y52S                      164.20 X 75.40
+Vivo Y52S T1                   164.20 X 75.40
+Vivo Y54S                      164.20 X 75.40
+Vivo Y72 5G India              164.20 X 75.40
+
+Coolpad C15                    164.20 X 75.70
+Coolpad CP12                   164.20 X 75.70
+Coolpad CP12 NEO               164.20 X 75.70
+Coolpad CP12 NEO Plus          164.20 X 75.70
+Realme C30S                    164.20 X 75.70
+Realme C33                     164.20 X 75.70
+Realme C33 2023                164.20 X 75.70
+
+Lava Z2                        164.50 X 75.80
+Lava Z2S                       164.50 X 75.80
+Lava Z3                        164.50 X 75.80
+Lava Z3 PRO                    164.50 X 75.80
+Lava Z4                        164.50 X 75.80
+Lava Z6                        164.50 X 75.80
+Micromax IN 1B                 164.50 X 75.80
+
+Motorola Moto E22S             164.00 X 75.00
+Motorola Moto E32              164.00 X 75.00
+Motorola Moto E32 India        164.00 X 75.00
+Motorola Moto E32S             164.00 X 75.00
+Motorola Moto G 2023           164.00 X 75.00
+Motorola Moto G22              164.00 X 75.00
+
+Realme 5I                      164.40 X 75.00
+Realme C3                      164.40 X 75.00
+Realme C3 3 Cameras            164.40 X 75.00
+Realme C3I                     164.40 X 75.00
+Realme Narzo 10A               164.40 X 75.00
+Motorola Moto G 2024           164.40 X 75.00
+
+Oppo K10 Energy                164.40 X 75.90
+Oppo K9S                       164.40 X 75.90
+Samsung Galaxy A42 5G          164.40 X 75.90
+Samsung Galaxy M42 5G          164.40 X 75.90
+BLU G71L                       164.40 X 75.90
+Realme C11                     164.40 X 75.90
+
+Huawei Enjoy 60 PRO            164.60 X 75.60
+Huawei Nova 10 Youth           164.60 X 75.60
+Huawei Nova 11I                164.60 X 75.60
+Huawei Nova 9 SE               164.60 X 75.60
+Huawei Nova 9 SE 5G            164.60 X 75.60
+Wiko 5G                        164.60 X 75.60
+
+Huawei Enjoy 50Z               164.30 X 75.80
+Huawei Nova Y61                164.30 X 75.80
+Oneplus 12                     164.30 X 75.80
+Oneplus ACE Racing             164.30 X 75.80
+Oppo K10 5G China              164.30 X 75.80
+
+Vivo Iqoo Z11 India            164.40 X 75.30
+Vivo S2                        164.40 X 75.30
+Vivo T5                        164.40 X 75.30
+Vivo V80 Lite IN PK            164.40 X 75.30
+Vivo X90 PRO Plus              164.40 X 75.30
+
+Realme 5                       164.40 X 75.60
+Realme 5S                      164.40 X 75.60
+Realme C35                     164.40 X 75.60
+Realme Narzo 50A Prime         164.40 X 75.60
+Infinix Smart 5 PRO            164.40 X 75.60
+
+Oppo A36                       164.40 X 75.70
+Oppo A76                       164.40 X 75.70
+Oppo A96                       164.40 X 75.70
+Oppo K10                       164.40 X 75.70
+Realme 9I                      164.40 X 75.70
+
+Vivo Iqoo U5X                  164.00 X 75.20
+Vivo Y01                       164.00 X 75.20
+Vivo Y15A                      164.00 X 75.20
+Vivo Y15S                      164.00 X 75.20
+
+Vivo Iqoo NEO5 Lite            164.00 X 75.50
+Vivo Y33                       164.00 X 75.50
+Vivo Y53S 4G                   164.00 X 75.50
+ZTE Blade A72 5G               164.00 X 75.50
+
+Realme 7I                      164.10 X 75.50
+Realme 8I                      164.10 X 75.50
+Realme C17                     164.10 X 75.50
+Realme Narzo 50                164.10 X 75.50
+
+Oppo A17                       164.20 X 75.60
+Oppo A17K                      164.20 X 75.60
+Infinix Smart 7 India          164.20 X 75.60
+Tecno Spark 9 PRO              164.20 X 75.60
+
+Xiaomi Redmi 10X 5G            164.20 X 75.80
+Xiaomi Redmi 10X PRO 5G        164.20 X 75.80
+Infinix HOT 12 PRO             164.20 X 75.80
+Vivo Y77 China                 164.20 X 75.80
+
+Coolpad Cool 20                164.30 X 75.70
+Coolpad Cool 20 Plus           164.30 X 75.70
+Micromax IN 2B                 164.30 X 75.70
+Micromax IN 2C                 164.30 X 75.70
+
+Realme 9 5G Speed              164.40 X 75.80
+Realme Q3S                     164.40 X 75.80
+Alcatel 3 2025                 164.40 X 75.80
+Lava Yuva PRO                  164.40 X 75.80
+
+TCL 30                         164.50 X 75.20
+TCL 30 5G                      164.50 X 75.20
+TCL 30 Plus                    164.50 X 75.20
+Vivo X70 PRO Plus              164.50 X 75.20
+
+TCL 40 Nxtpaper 5G             164.50 X 75.40
+TCL 40 X                       164.50 X 75.40
+TCL 40R                        164.50 X 75.40
+TCL 50 LE                      164.50 X 75.40
+
+Nokia C22                      164.60 X 75.90
+Nokia C32                      164.60 X 75.90
+Nokia G11                      164.60 X 75.90
+Nokia G21                      164.60 X 75.90
+
+Oppo A5 Energy                 164.80 X 75.50
+Oppo A5 PRO                    164.80 X 75.50
+Oppo A5 PRO 4G                 164.80 X 75.50
+Motorola Moto E20              164.80 X 75.50
+
+TCL 50 XE                      164.10 X 75.00
+TCL 50 XE Nxtpaper             164.10 X 75.00
+Vivo S19 PRO                   164.10 X 75.00
+
+ZTE Axon 60 Lite               164.20 X 75.30
+ZTE Blade V60 Design           164.20 X 75.30
+Wiko T40                       164.20 X 75.30
+
+Realme 6I                      164.40 X 75.40
+Realme Narzo 10                164.40 X 75.40
+Realme Narzo 20A               164.40 X 75.40
+
+Realme 12 Lite                 164.60 X 75.40
+Realme C67 4G                  164.60 X 75.40
+Vivo Iqoo 12 PRO               164.60 X 75.40
+
+TCL 405                        164.70 X 75.40
+TCL 406                        164.70 X 75.40
+TCL 408                        164.70 X 75.40
+
+Nokia C21 Plus                 164.80 X 75.90
+Nokia G11 Plus                 164.80 X 75.90
+ZTE Blade A52 Lite             164.80 X 75.90
+
+HTC Desire 20 Plus             164.90 X 75.70
+Lenovo K12                     164.90 X 75.70
+Motorola Moto E7               164.90 X 75.70
+
+Vivo X100 PRO                  164.10 X 75.30
+Vivo X100S PRO                 164.10 X 75.30
+
+Infinix Zero X                 164.10 X 75.70
+Infinix Zero X PRO             164.10 X 75.70
+
+Motorola Moto E13              164.20 X 75.00
+Vivo V40                       164.20 X 75.00
+
+Oukitel C37                    164.30 X 75.50
+Oukitel C38                    164.30 X 75.50
+
+Infinix Zero 30                164.50 X 75.00
+Infinix Zero 30 4G             164.50 X 75.00
+
+Blackview Shark 9              164.80 X 75.60
+Oscal Tiger 13                 164.80 X 75.60
+
+Alcatel 3X 2019                164.90 X 75.80
+Motorola Moto G8 Power Lite    164.90 X 75.80
+
+Vivo Z6 5G                     164.00 X 75.10
+Oppo A53S 5G                   164.00 X 75.70
+TCL 50 5G                      164.10 X 75.10
+Vivo X100                      164.10 X 75.20
+ZTE Blade A75 4G               164.10 X 75.80
+HTC Wildfire E Plus            164.10 X 75.90
+HMD Fusion                     164.20 X 75.50
+TCL 20 R 5G                    164.30 X 75.00
+Infinix GT 20 PRO              164.30 X 75.40
+Tecno Spark 8T                 164.30 X 75.90
+Tecno Spark 10 5G              164.40 X 75.50
+TCL 20 XE                      164.60 X 75.00
+Vivo X80 PRO                   164.60 X 75.30
+Tecno Spark 20 PRO Plus        164.70 X 75.00
+Honor 50 SE                    164.70 X 75.60
+Vivo Iqoo 9 PRO                164.80 X 75.20
+Vivo Iqoo 11 PRO               164.80 X 75.30
+BLU G53                        164.80 X 75.80
+Oneplus Nord N100              164.90 X 75.10
+Vivo Iqoo 10 PRO               164.90 X 75.50

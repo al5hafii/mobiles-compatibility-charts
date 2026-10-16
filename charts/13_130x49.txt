@@ -1,0 +1,14 @@
+Ericsson A1018S                130.00 X 49.00
+Ericsson GA 318                130.00 X 49.00
+Ericsson GA 628                130.00 X 49.00
+Ericsson GF 337                130.00 X 49.00
+Ericsson GF 388                130.00 X 49.00
+Ericsson GH 218                130.00 X 49.00
+Ericsson GH 337                130.00 X 49.00
+Ericsson GH 388                130.00 X 49.00
+Ericsson GH 688                130.00 X 49.00
+Ericsson GS 337                130.00 X 49.00
+Ericsson I 888                 130.00 X 49.00
+Ericsson S 868                 130.00 X 49.00
+Ericsson SH 888                130.00 X 49.00
+

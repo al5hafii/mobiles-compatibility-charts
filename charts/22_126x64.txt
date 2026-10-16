@@ -1,0 +1,28 @@
+Fujitsu Siemens T810           126.00 X 64.00
+Fujitsu Siemens T830           126.00 X 64.00
+ZTE Blade A410                 126.00 X 64.00
+ZTE Blade V                    126.00 X 64.00
+BLU Dash L                     126.00 X 64.00
+Gionee Pioneer P2S             126.00 X 64.00
+Qmobile W1                     126.00 X 64.00
+Yezz Andy 4E LTE               126.00 X 64.00
+
+Allview A5 DUO                 126.00 X 64.40
+Gionee Pioneer P2              126.00 X 64.40
+Qmobile Noir A8I               126.00 X 64.40
+
+Prestigio Multiphone 5430 DUO  126.00 X 64.70
+Xolo X910                      126.00 X 64.70
+ZTE Open C                     126.00 X 64.70
+
+LG Optimus F5                  126.00 X 64.50
+Philips S308                   126.00 X 64.50
+
+Celkon A40                     126.20 X 64.00
+Celkon AR40                    126.20 X 64.00
+
+BLU Dash L4                    126.80 X 64.10
+BLU Dash L4 LTE                126.80 X 64.10
+
+Huawei Premia 4G M931          126.00 X 64.30
+Celkon Campus Buddy A404       126.50 X 64.20

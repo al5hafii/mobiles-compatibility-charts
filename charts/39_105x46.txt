@@ -1,0 +1,42 @@
+Sagem MY G5                    105.00 X 46.00
+Sagem MY X-5                   105.00 X 46.00
+Sagem MY300X                   105.00 X 46.00
+Sagem MY301X                   105.00 X 46.00
+Sagem MY302X                   105.00 X 46.00
+Sagem MY400V                   105.00 X 46.00
+Sagem MY400X                   105.00 X 46.00
+Sagem MY401X                   105.00 X 46.00
+Sagem MY405X                   105.00 X 46.00
+Siemens ME75                   105.00 X 46.00
+Siemens SL42                   105.00 X 46.00
+Siemens SL45                   105.00 X 46.00
+Siemens SL45I                  105.00 X 46.00
+Siemens Xelibri 7              105.00 X 46.00
+LG GB220                       105.00 X 46.00
+LG KE770 Shine                 105.00 X 46.00
+LG KP199                       105.00 X 46.00
+LG KP320                       105.00 X 46.00
+Nokia 6120 Classic             105.00 X 46.00
+Nokia 6121 Classic             105.00 X 46.00
+Nokia 6124 Classic             105.00 X 46.00
+ZTE F100                       105.00 X 46.00
+ZTE F101                       105.00 X 46.00
+ZTE F103                       105.00 X 46.00
+Bird S758                      105.00 X 46.00
+Bird S768                      105.00 X 46.00
+Amoi M630                      105.00 X 46.00
+Gigabyte G-CAM                 105.00 X 46.00
+I Mobile Hitz 212              105.00 X 46.00
+Telit G40                      105.00 X 46.00
+Toshiba TS705                  105.00 X 46.00
+Vodafone 231                   105.00 X 46.00
+
+Philips Xenium 9 9G            105.60 X 46.00
+Sagem MY X2-2                  105.60 X 46.00
+
+Bird D716                      105.80 X 46.00
+Unnecto ECO                    105.80 X 46.00
+
+Siemens AX72                   105.60 X 46.80
+ZTE F107                       105.70 X 46.00
+Spice M-5180                   105.70 X 46.50

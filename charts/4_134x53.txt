@@ -1,0 +1,5 @@
+Bosch COM 509                  134.00 X 53.00
+Bosch COM 607                  134.00 X 53.00
+Bosch COM 608                  134.00 X 53.00
+Telit Estremo                  134.00 X 53.00
+

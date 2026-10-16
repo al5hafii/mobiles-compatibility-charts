@@ -1,0 +1,9 @@
+NEC N400I                      101.00 X 49.00
+NEC N410I                      101.00 X 49.00
+NEC N830                       101.00 X 49.00
+Ericsson T29S                  101.00 X 49.00
+Nokia 6110 Navigator           101.00 X 49.00
+
+LG GB230 Julia                 101.20 X 49.20
+LG KT520                       101.40 X 49.60
+Samsung I6210                  101.50 X 49.00

@@ -1,0 +1,36 @@
+Lenovo P2                      153.00 X 76.00
+Sharp Z2                       153.00 X 76.00
+Unnecto AIR 5.5                153.00 X 76.00
+
+Motorola Moto G4               153.00 X 76.60
+Motorola Moto G4 Plus          153.00 X 76.60
+BLU R1 Plus                    153.00 X 76.60
+
+Samsung Galaxy Note5           153.20 X 76.10
+Samsung Galaxy Note5 Duos      153.20 X 76.10
+Samsung Galaxy Note5 USA       153.20 X 76.10
+
+Vivo Xplay5                    153.50 X 76.20
+Vivo Xplay5 Elite              153.50 X 76.20
+Motorola Moto G5S Plus         153.50 X 76.20
+
+Xiaomi Redmi Y1 Lite           153.00 X 76.20
+Xiaomi Redmi Y1 Note 5A        153.00 X 76.20
+
+Tecno Spark                    153.00 X 76.40
+Tecno Spark PRO                153.00 X 76.40
+
+Huawei Y7                      153.60 X 76.40
+Huawei Y7 Prime                153.60 X 76.40
+
+Lenovo Vibe K4 Note            153.60 X 76.50
+Lenovo Vibe X3 C78             153.60 X 76.50
+
+Coolpad Mega                   153.00 X 76.80
+Samsung Galaxy J7 2018         153.20 X 76.20
+Asus Zenfone GO ZB552KL        153.40 X 76.40
+Coolpad Note 6                 153.70 X 76.40
+Meizu M3X                      153.80 X 76.00
+ZTE Zmax 2                     153.90 X 76.00
+Motorola Moto X Style          153.90 X 76.20
+Samsung I9500 Fraser           153.90 X 76.40

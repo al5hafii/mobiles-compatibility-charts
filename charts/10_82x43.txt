@@ -1,0 +1,12 @@
+LG C1100                       82.00 X 43.00
+LG C1150                       82.00 X 43.00
+Motorola V150                  82.00 X 43.00
+Motorola V8088                 82.00 X 43.00
+Sagem MY C5-2                  82.00 X 43.00
+Sagem MY C5-3                  82.00 X 43.00
+Amoi A211                      82.00 X 43.00
+Bird G118                      82.00 X 43.00
+
+Bird DV10                      82.90 X 43.00
+Bird V109                      82.90 X 43.00
+
