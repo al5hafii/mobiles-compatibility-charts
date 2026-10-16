@@ -1,4 +1,8 @@
-# Mobiles Cross-Compatibility Charts
+
+<div align="center">
+    <h1>Mobiles Cross-Compatibility Charts</h1>
+    <img width="480" height="270" alt="MobilesCompatibility Charts" src="assets/mobiles-compatibility-charts.webp" />
+</div>
 
 Find out which Phones,Tablets,Watch share the exact same **cases**, **tempered glass screen protectors**, and **accessories**, so you never waste money on dead stock again.
 
