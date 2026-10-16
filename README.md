@@ -1,4 +1,4 @@
-# Mobiles Cross Compatibility Chart: Phones That Share the Same Case, Tempered Glass and Accessories
+# Mobiles Cross-Compatibility Charts
 
 Find out which phones share the exact same **phone cases**, **tempered glass screen protectors**, and **accessories**, so you never waste money on dead stock again.
 
