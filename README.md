@@ -39,16 +39,16 @@ It is a collection of text charts that compare mobile sizes across brands such a
 
 ## Who Is This For?
 
-- Phone accessory shops that want to stock fewer case and tempered glass sizes
+- Phones,Tablets,Watch accessory shops that want to stock fewer case and tempered glass sizes
 - Wholesalers and importers who need to avoid buying stock that will not sell
 - Repair technicians who need to know which phones share the same parts
 - Shoppers who want to know if a case or screen protector fits another phone
 
 With these charts you can:
 
-- Identify mobile that use the same cases
-- Identify mobile that use the same tempered glass
-- Identify mobile that share the same accessories
+- Identify Phones,Tablets,Watch that use the same cases
+- Identify Phones,Tablets,Watch that use the same tempered glass
+- Identify Phones,Tablets,Watch that share the same accessories
 - Avoid buying stock that will not sell
 
 ---
@@ -135,7 +135,7 @@ Cubot MAX 5                    173.90 X 78.90
 
 ## How to Find Phones With the Same Case and Tempered Glass
 
-1. Find your phone's brand and model.
+1. Find your Phones,Tablets,Watch brand and model.
 2. Open the chart file that contains it. The file name shows the number of models and the size range, for example `279_164x75.txt`.
 3. Look at the group your phone is in:
    - **Exact-size group:** every phone in the same group has exactly the same size as yours.
@@ -146,11 +146,11 @@ Cubot MAX 5                    173.90 X 78.90
 
 ## FAQ
 
-### Which phones use the same case?
+### Which Phones,Tablets,Watch use the same case?
 
 Phones listed in the same exact-size group have identical dimensions, so they are the best candidates for sharing the same case.
 
-### Which phones use the same tempered glass screen protector?
+### Which Phones,Tablets,Watch use the same tempered glass screen protector?
 
 Use the same method: find your phone in its chart, then check the phones in its exact-size group. Phones in the same range but with different exact sizes may need a different screen protector.
 
