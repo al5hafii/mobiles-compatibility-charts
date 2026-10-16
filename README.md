@@ -41,6 +41,16 @@ No dice rolling, no guesswork.
 
 ---
 
+## Video Charts
+
+Watch some of the biggest charts in video form:
+
+[![Watch the video charts playlist](https://img.youtube.com/vi/9F6rgoukxEA/hqdefault.jpg)](https://www.youtube.com/watch?v=9F6rgoukxEA&list=PLCmJs5bqQciQ&index=1)
+
+[▶ Watch the playlist on YouTube](https://www.youtube.com/watch?v=9F6rgoukxEA&list=PLCmJs5bqQciQ&index=1)
+
+---
+
 ## Chart File Naming
 
 Every chart name includes its model count and its size range (height x width):
@@ -108,16 +118,6 @@ Cubot MAX 5                    173.90 X 78.90
 | Same range, not exact | Tecno Pova 2       | 173.30 X 78.80   |
 | Same range, not exact | Gionee P15 PRO     | 173.80 X 78.50   |
 | Same range, not exact | Cubot MAX 5        | 173.90 X 78.90   |
-
----
-
-## Video Charts
-
-Watch some of the biggest charts in video form:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLCmJs5bqQciQ" title="Biggest charts playlist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[▶ Watch the playlist on YouTube](https://www.youtube.com/playlist?list=PLCmJs5bqQciQ)
 
 ---
 
