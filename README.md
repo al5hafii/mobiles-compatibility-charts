@@ -4,6 +4,8 @@
     <img width="480" height="270" alt="MobilesCompatibility Charts" src="assets/mobiles-compatibility-charts.webp" />
 </div>
 
+---
+
 Find out which Phones,Tablets,Watch share the exact same **cases**, **tempered glass screen protectors**, and **accessories**, so you never waste money on dead stock again.
 
 This mobile compatibility chart groups Phones,Tablets,Watch from every brand by body height and width, so you can see at a glance which models fit the same case or screen protector. It is built for Phones,Tablets,Watch accessory shops, wholesalers, importers, and repair technicians who want to stock fewer items and sell more.
